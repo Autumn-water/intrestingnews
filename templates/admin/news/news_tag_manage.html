@@ -1,0 +1,51 @@
+{% extends 'admin/base/admin_base.html' %}
+
+{% block header %}
+新闻标签管理
+{% endblock %}
+
+{% block title %}
+新闻标签管理
+{% endblock %}
+
+{% block content %}
+ <div class="row">
+  <div class="col-md-12 col-xs-12 col-sm-12">
+    <div class="box box-primary">
+      <div class="box-header">
+        <button class="btn btn-primary pull-right" id="btn-add-tag">添加标签</button>
+      </div>
+      <div class="box-body">
+        <table class="table table-bordered table-hover">
+          <thead>
+            <tr>
+              <th>标签名称</th>
+              <th>新闻数量</th>
+              <th>操作</th>
+            </tr>
+          </thead>
+          <tbody>
+          {% for news_tag in news_tags %}
+              <!-- data-id 自定义属性 通过 js 获取 -->
+           		<tr data-id="{{ news_tag.id }}" data-name="{{ news_tag.name }}">
+              <td>{{ news_tag.name }}</td>
+              <td>10</td>
+              <td>
+                <button class="btn btn-xs btn-warning btn-edit">编辑</button>
+                <button class="btn btn-xs btn-danger btn-del">删除</button>
+              </td>
+            </tr>
+          {% endfor %}
+          
+
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+ </div>
+{% endblock %}
+
+{% block script %}
+  <script src="/static/js/admin/news/news_tag_manage.js"></script>
+{% endblock %}

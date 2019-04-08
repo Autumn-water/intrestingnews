@@ -1,0 +1,28 @@
+ite_uwsgi.ini file
+
+[uwsgi]
+
+# Django-related settings 
+# the base directory (full path) 项目路径
+chdir           = /home/xixi/dj
+# Django's wsgi file   wsgi 文件
+wsgi-file        = dj/wsgi.py
+# the virtualenv (full path) # 虚拟环境路径
+home            = /home/xixi/.virtualenvs/py3env
+
+# process-related settings  进程设置
+# master 主进程
+master          = true
+# maximum number of worker processes 最大进程数
+processes       = 5
+# 线程数
+threads         = 4
+# http 端口
+http            = :8001
+# the socket (use the full path to be safe
+# socket          = /path/to/your/project/mysite.sock
+# socket 权限
+# chmod-socket    = 664
+socket            = 127.0.0.1:10001
+# clear environment on exit  退出的时候清理虚拟环境
+vacuum          = true

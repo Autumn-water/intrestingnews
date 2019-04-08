@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}{% endblock %}</title>
+  {#  <link rel="stylesheet" href="{% static 'css/base/reset.css' %}">#}
+  <link rel="stylesheet" href="/static/css/base/reset.css">
+  <link rel="stylesheet" href="/static/css/base/common.css">
+  <link rel="stylesheet" href="/static/css/base/side.css">
+  <link rel="stylesheet" href="http://at.alicdn.com/t/font_684044_un7umbuwwfp.css">
+  {% block link %}{% endblock %}
+</head>
+<body>
+<!-- header start -->
+<header id="header">
+  <div class="mw1200 header-contain clearfix">
+    <!-- logo start -->
+    <h1 class="logo">
+      <a href="javascript:void(0);" class="logo-title">Python</a>
+    </h1>
+    <!-- logo end -->
+    <!-- nav start -->
+    <nav class="nav">
+      <ul class="menu">
+        <li><a href="{% url 'news:index' %}">首页</a></li>
+{#        <li><a href="{% url 'course:index' %}">在线课堂</a></li>#}
+        <li><a href="{% url 'doc:index' %}">下载文档</a></li>
+        <li><a href="{% url 'news:search' %}">搜索</a></li>
+      </ul>
+    </nav>
+    <!-- nav end -->
+    <!-- login start -->
+    <div class="login-box">
+      <!-- is_authenticated request -->
+      {% if user.is_authenticated %}
+        <!-- logged start -->
+        <div class="author">
+          <i class="PyWhich py-user"></i>
+          <span>{{ user.username }}</span>
+          <ul class="author-menu">
+            {% if user.is_staff %}
+             <li><a href="{% url 'admin:index' %}">后台管理</a></li>
+            {% endif %}
+            <li><a href="{% url 'account:logout' %}">退出登录</a></li>
+          </ul>
+        </div>
+      <!-- logged end -->
+        {% else %}
+            <div>
+        <i class="PyWhich py-user"></i>
+        <span>
+						<a href="{% url 'account:login' %}" class="login">登录</a> /
+						<a href="{% url 'account:register' %}" class="register">注册</a>
+					</span>
+      </div>
+      {% endif %}
+    </div>
+    <!-- login end -->
+  </div>
+</header>
+<!-- header end -->
+
+{% block main %}
+{% endblock %}
+<!-- footer start -->
+<footer id="footer">
+  <div class="footer-box">
+    <div class="footer-content">
+      <p class="top-content">
+					<span class="link">
+						<a href="javascript:void(0)">关于我们</a> |
+						<a href="javascript:void(0)">法律声明及隐私权政策</a> |
+						<a href="javascript:void(0)"> 廉正举报</a> |
+						<a href="javascript:void(0)">联系我们</a>
+					</span>
+        <span class="about-me">关注我: <i class="PyWhich py-wechat"></i> Intresting</span>
+      </p>
+      <p class="bottom-content">
+{#        <span>地址:xxxx</span>#}
+        <span>联系方式: <a href="tel:400-1567-315">QQ:1239901466</a> (不定时在线)</span>
+      </p>
+    </div>
+    <p class="copyright-desc">
+      Copyright &copy; 2008 - 2019 . All Rights Reserved
+    </p>
+  </div>
+</footer>
+<!-- footer end -->
+<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+<script src="/static/js/base/message.js"></script>
+<script src="/static/js/base/common.js"></script>
+{% block script %}{% endblock %}
+</body>
+</html>

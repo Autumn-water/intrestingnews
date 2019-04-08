@@ -1,0 +1,43 @@
+{% extends 'base/front_base.html' %}
+
+{% block title %}
+  下载文档
+{% endblock %}
+
+{% block link %}
+  <link rel="stylesheet" href="/static/css/doc/docDownload.css">
+{% endblock %}
+
+
+{% block main %}
+  <!-- main start -->
+  <main id="main">
+      <div class="w1200 clearfix">
+          <!-- main-contain start  -->
+          <div class="main-contain ">
+              <div class="banner">
+                  <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1802845035,3786939119&fm=26&gp=0.jpg" alt="">
+              </div>
+              <div class="doc-contain">
+                  <ul class="doc-list">
+                    {% for doc in docs %}
+                      <li class="doc-item">
+                          <div class="doc-img doc"></div>
+                          <div class="d-contain">
+                              <p class="doc-title">{{ doc.title }}</p>
+                              <p class="doc-desc">{{ doc.desc }}</p>
+{#                              <a href="{{ doc.file_path }}" download="" class="doc-price">下载</a>#}
+                              <!-- /www/?xxx -->
+                              <a href="{% url 'doc:download_doc' %}?doc_id={{ doc.id }}" class="doc-price">下载</a>
+                          </div>
+                      </li>
+                    {% endfor %}
+                  </ul>
+              </div>
+          </div>
+          <!-- main-contain  end -->
+          {% include 'base/side_base.html' %}
+      </div>
+  </main>
+  <!-- main end -->
+{% endblock %}

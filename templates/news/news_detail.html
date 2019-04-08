@@ -1,0 +1,65 @@
+{% extends 'base/front_base.html' %}
+{% load news_date_filter %}
+{% block link %}
+ <link rel="stylesheet" href="/static/css/news/news_detail.css">
+{% endblock %}
+
+
+{% block main %}
+ <!-- main start -->
+  <main id="main">
+      <div class="w1200 clearfix">
+          <!-- news-contain start  -->
+          <div class="news-contain">
+              <h1 class="news-title">{{ news.title }}</h1>
+              <div class="news-info">
+                  <div class="news-info-left">
+                      <span class="news-author">{{ news.author.username }}</span>
+                      <span class="news-pub-time">{{ news.pub_time|date_format }}</span>
+                      <span class="news-type">{{ news.tag.name }}</span>
+                  </div>
+              </div>
+              <article class="news-content">
+                  {{ news.content|safe }}
+              </article>
+              <div class="comment-contain">
+                  <div class="comment-pub clearfix">
+                      <div class="new-comment">
+                          文章评论(<span class="comment-count">0</span>)
+                      </div>
+
+                      {% if user.is_authenticated %}
+                        <div class="comment-control logged-comment">
+                          <input type="text" placeholder="请填写评论">
+                        </div>
+                        {% else %}
+                          <div class="comment-control please-login-comment">
+                            <input type="text" placeholder="请登录后参加评论" readonly>
+                          </div>
+                      {% endif %}
+                      <button class="comment-btn" data-news-id="{{ news.id }}">发表评论</button>
+                  </div>
+                  <ul class="comment-list">
+{#                    {% for comment in comments %}#}
+{#                      {{ comment.author.username }}#}
+{#                    {% endfor %}#}
+
+                  </ul>
+              </div>
+
+          </div>
+          <!-- news-contain end  -->
+          <!-- side start -->
+          {% include 'base/side_base.html' %}
+          <!-- side end -->
+      </div>
+  </main>
+  <!-- main end -->
+{% endblock %}
+{% block title %}
+{{ news.title }}
+{% endblock %}
+
+{% block script %}
+  <script src="/static/js/news/news_detail.js"></script>
+{% endblock %}

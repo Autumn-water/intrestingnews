@@ -1,0 +1,2165 @@
+2019-04-03 11:56:31,820 INFO RPC interface 'supervisor' initialized
+2019-04-03 11:56:31,822 INFO daemonizing the supervisord process
+2019-04-03 11:56:31,823 INFO supervisord started with pid 3185
+2019-04-03 11:56:32,825 INFO spawned: 'dj' with pid 3186
+2019-04-03 11:56:32,832 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:33,834 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:34,837 INFO spawned: 'dj' with pid 3187
+2019-04-03 11:56:34,844 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:35,846 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:36,849 INFO spawned: 'dj' with pid 3188
+2019-04-03 11:56:36,856 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:37,857 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:38,860 INFO spawned: 'dj' with pid 3189
+2019-04-03 11:56:38,868 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:39,870 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:40,872 INFO spawned: 'dj' with pid 3190
+2019-04-03 11:56:40,879 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:41,881 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:42,886 INFO spawned: 'dj' with pid 3191
+2019-04-03 11:56:42,893 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:43,895 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:44,898 INFO spawned: 'dj' with pid 3192
+2019-04-03 11:56:44,905 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:45,906 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:46,909 INFO spawned: 'dj' with pid 3193
+2019-04-03 11:56:46,916 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:47,918 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:48,920 INFO spawned: 'dj' with pid 3194
+2019-04-03 11:56:48,928 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:49,929 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:50,932 INFO spawned: 'dj' with pid 3195
+2019-04-03 11:56:50,939 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:51,941 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:52,945 INFO spawned: 'dj' with pid 3196
+2019-04-03 11:56:52,952 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:53,953 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:54,956 INFO spawned: 'dj' with pid 3197
+2019-04-03 11:56:54,962 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:55,964 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:56,967 INFO spawned: 'dj' with pid 3198
+2019-04-03 11:56:56,974 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:57,976 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:56:58,978 INFO spawned: 'dj' with pid 3199
+2019-04-03 11:56:58,985 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:56:59,987 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:00,989 INFO spawned: 'dj' with pid 3200
+2019-04-03 11:57:00,996 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:01,997 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:02,999 INFO spawned: 'dj' with pid 3201
+2019-04-03 11:57:03,006 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:04,007 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:05,010 INFO spawned: 'dj' with pid 3202
+2019-04-03 11:57:05,017 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:06,019 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:07,022 INFO spawned: 'dj' with pid 3203
+2019-04-03 11:57:07,030 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:08,031 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:09,035 INFO spawned: 'dj' with pid 3204
+2019-04-03 11:57:09,042 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:10,044 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:11,046 INFO spawned: 'dj' with pid 3205
+2019-04-03 11:57:11,054 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:12,055 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:13,057 INFO spawned: 'dj' with pid 3206
+2019-04-03 11:57:13,064 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:14,066 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:15,068 INFO spawned: 'dj' with pid 3207
+2019-04-03 11:57:15,075 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:16,077 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:17,080 INFO spawned: 'dj' with pid 3208
+2019-04-03 11:57:17,087 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:18,089 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:19,092 INFO spawned: 'dj' with pid 3209
+2019-04-03 11:57:19,100 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:20,102 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:21,104 INFO spawned: 'dj' with pid 3210
+2019-04-03 11:57:21,112 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:22,114 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:23,117 INFO spawned: 'dj' with pid 3211
+2019-04-03 11:57:23,124 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:24,126 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:25,128 INFO spawned: 'dj' with pid 3212
+2019-04-03 11:57:25,136 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:26,137 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:27,140 INFO spawned: 'dj' with pid 3213
+2019-04-03 11:57:27,147 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:28,148 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:29,152 INFO spawned: 'dj' with pid 3214
+2019-04-03 11:57:29,159 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:30,161 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:31,164 INFO spawned: 'dj' with pid 3215
+2019-04-03 11:57:31,171 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:32,173 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:33,176 INFO spawned: 'dj' with pid 3216
+2019-04-03 11:57:33,184 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:34,186 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:35,188 INFO spawned: 'dj' with pid 3217
+2019-04-03 11:57:35,195 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:36,197 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:37,200 INFO spawned: 'dj' with pid 3218
+2019-04-03 11:57:37,206 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:38,208 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:39,212 INFO spawned: 'dj' with pid 3219
+2019-04-03 11:57:39,219 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:40,220 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:41,223 INFO spawned: 'dj' with pid 3220
+2019-04-03 11:57:41,229 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:42,231 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:43,233 INFO spawned: 'dj' with pid 3221
+2019-04-03 11:57:43,241 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:44,243 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:45,245 INFO spawned: 'dj' with pid 3222
+2019-04-03 11:57:45,252 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:46,254 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:47,256 INFO spawned: 'dj' with pid 3223
+2019-04-03 11:57:47,263 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:48,265 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:49,269 INFO spawned: 'dj' with pid 3224
+2019-04-03 11:57:49,276 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:50,278 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:51,281 INFO spawned: 'dj' with pid 3225
+2019-04-03 11:57:51,288 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:52,290 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:53,292 INFO spawned: 'dj' with pid 3226
+2019-04-03 11:57:53,299 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:54,301 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:55,304 INFO spawned: 'dj' with pid 3227
+2019-04-03 11:57:55,312 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:56,313 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:57,316 INFO spawned: 'dj' with pid 3228
+2019-04-03 11:57:57,323 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:57:58,325 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:57:59,329 INFO spawned: 'dj' with pid 3229
+2019-04-03 11:57:59,336 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:00,337 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:01,340 INFO spawned: 'dj' with pid 3230
+2019-04-03 11:58:01,348 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:02,350 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:03,353 INFO spawned: 'dj' with pid 3231
+2019-04-03 11:58:03,360 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:04,362 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:05,364 INFO spawned: 'dj' with pid 3232
+2019-04-03 11:58:05,371 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:06,373 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:07,375 INFO spawned: 'dj' with pid 3233
+2019-04-03 11:58:07,383 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:08,385 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:09,388 INFO spawned: 'dj' with pid 3234
+2019-04-03 11:58:09,395 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:10,397 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:11,400 INFO spawned: 'dj' with pid 3235
+2019-04-03 11:58:11,407 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:12,409 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:13,412 INFO spawned: 'dj' with pid 3236
+2019-04-03 11:58:13,419 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:14,421 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:15,424 INFO spawned: 'dj' with pid 3237
+2019-04-03 11:58:15,431 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:16,433 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:17,435 INFO spawned: 'dj' with pid 3238
+2019-04-03 11:58:17,444 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:18,446 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:19,450 INFO spawned: 'dj' with pid 3239
+2019-04-03 11:58:19,458 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:20,460 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:21,462 INFO spawned: 'dj' with pid 3240
+2019-04-03 11:58:21,469 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:22,471 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:23,474 INFO spawned: 'dj' with pid 3241
+2019-04-03 11:58:23,485 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:24,487 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:25,490 INFO spawned: 'dj' with pid 3242
+2019-04-03 11:58:25,496 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:26,498 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:27,501 INFO spawned: 'dj' with pid 3243
+2019-04-03 11:58:27,508 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:28,510 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:29,514 INFO spawned: 'dj' with pid 3244
+2019-04-03 11:58:29,520 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:30,521 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:31,524 INFO spawned: 'dj' with pid 3245
+2019-04-03 11:58:31,530 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:32,532 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:33,535 INFO spawned: 'dj' with pid 3246
+2019-04-03 11:58:33,542 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:34,544 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:35,547 INFO spawned: 'dj' with pid 3247
+2019-04-03 11:58:35,554 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:36,556 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:37,558 INFO spawned: 'dj' with pid 3248
+2019-04-03 11:58:37,565 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:38,567 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:39,570 INFO spawned: 'dj' with pid 3249
+2019-04-03 11:58:39,577 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:40,579 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:41,582 INFO spawned: 'dj' with pid 3250
+2019-04-03 11:58:41,590 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:42,592 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:43,594 INFO spawned: 'dj' with pid 3251
+2019-04-03 11:58:43,602 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:44,604 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:45,606 INFO spawned: 'dj' with pid 3252
+2019-04-03 11:58:45,613 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:46,615 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:47,618 INFO spawned: 'dj' with pid 3253
+2019-04-03 11:58:47,624 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:48,626 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:49,630 INFO spawned: 'dj' with pid 3254
+2019-04-03 11:58:49,637 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:50,639 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:51,642 INFO spawned: 'dj' with pid 3255
+2019-04-03 11:58:51,648 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:52,649 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:53,652 INFO spawned: 'dj' with pid 3256
+2019-04-03 11:58:53,659 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:54,660 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:55,663 INFO spawned: 'dj' with pid 3257
+2019-04-03 11:58:55,670 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:56,672 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:57,674 INFO spawned: 'dj' with pid 3258
+2019-04-03 11:58:57,681 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:58:58,683 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:58:59,687 INFO spawned: 'dj' with pid 3259
+2019-04-03 11:58:59,694 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:00,696 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:01,699 INFO spawned: 'dj' with pid 3260
+2019-04-03 11:59:01,706 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:02,708 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:03,711 INFO spawned: 'dj' with pid 3261
+2019-04-03 11:59:03,718 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:04,721 INFO spawned: 'dj' with pid 3262
+2019-04-03 11:59:04,727 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:05,729 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:06,731 INFO spawned: 'dj' with pid 3263
+2019-04-03 11:59:06,738 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:07,739 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:08,742 INFO spawned: 'dj' with pid 3264
+2019-04-03 11:59:08,749 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:09,751 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:10,754 INFO spawned: 'dj' with pid 3265
+2019-04-03 11:59:10,761 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:11,763 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:12,766 INFO spawned: 'dj' with pid 3266
+2019-04-03 11:59:12,774 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:13,776 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:14,779 INFO spawned: 'dj' with pid 3267
+2019-04-03 11:59:14,786 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:15,788 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:16,791 INFO spawned: 'dj' with pid 3268
+2019-04-03 11:59:16,798 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:17,799 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:18,802 INFO spawned: 'dj' with pid 3269
+2019-04-03 11:59:18,809 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:19,811 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:20,814 INFO spawned: 'dj' with pid 3270
+2019-04-03 11:59:20,821 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:21,823 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:22,826 INFO spawned: 'dj' with pid 3271
+2019-04-03 11:59:22,832 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:23,834 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:24,837 INFO spawned: 'dj' with pid 3272
+2019-04-03 11:59:24,844 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:25,846 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:26,849 INFO spawned: 'dj' with pid 3273
+2019-04-03 11:59:26,858 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:27,860 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:28,863 INFO spawned: 'dj' with pid 3274
+2019-04-03 11:59:28,871 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:29,872 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:30,875 INFO spawned: 'dj' with pid 3275
+2019-04-03 11:59:30,881 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:31,883 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:32,886 INFO spawned: 'dj' with pid 3276
+2019-04-03 11:59:32,893 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:33,895 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:34,899 INFO spawned: 'dj' with pid 3277
+2019-04-03 11:59:34,906 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:35,907 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:36,910 INFO spawned: 'dj' with pid 3278
+2019-04-03 11:59:36,917 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:37,918 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:38,921 INFO spawned: 'dj' with pid 3279
+2019-04-03 11:59:38,929 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:39,931 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:40,933 INFO spawned: 'dj' with pid 3280
+2019-04-03 11:59:40,940 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:41,941 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:42,944 INFO spawned: 'dj' with pid 3281
+2019-04-03 11:59:42,951 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:43,952 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:44,956 INFO spawned: 'dj' with pid 3282
+2019-04-03 11:59:44,964 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:45,966 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:46,968 INFO spawned: 'dj' with pid 3283
+2019-04-03 11:59:46,976 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:47,978 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:48,981 INFO spawned: 'dj' with pid 3284
+2019-04-03 11:59:48,988 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:49,990 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:50,993 INFO spawned: 'dj' with pid 3285
+2019-04-03 11:59:51,001 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:52,003 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:53,005 INFO spawned: 'dj' with pid 3286
+2019-04-03 11:59:53,012 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:54,014 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:55,017 INFO spawned: 'dj' with pid 3287
+2019-04-03 11:59:55,024 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:56,026 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:57,028 INFO spawned: 'dj' with pid 3288
+2019-04-03 11:59:57,035 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 11:59:58,037 INFO exited: dj (exit status 1; not expected)
+2019-04-03 11:59:59,040 INFO spawned: 'dj' with pid 3289
+2019-04-03 11:59:59,047 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:00,049 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:01,052 INFO spawned: 'dj' with pid 3290
+2019-04-03 12:00:01,059 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:02,061 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:03,064 INFO spawned: 'dj' with pid 3291
+2019-04-03 12:00:03,070 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:04,072 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:05,075 INFO spawned: 'dj' with pid 3292
+2019-04-03 12:00:05,082 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:06,084 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:07,087 INFO spawned: 'dj' with pid 3293
+2019-04-03 12:00:07,094 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:08,095 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:09,100 INFO spawned: 'dj' with pid 3294
+2019-04-03 12:00:09,107 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:10,109 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:11,111 INFO spawned: 'dj' with pid 3295
+2019-04-03 12:00:11,118 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:12,119 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:13,122 INFO spawned: 'dj' with pid 3296
+2019-04-03 12:00:13,128 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:14,130 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:15,132 INFO spawned: 'dj' with pid 3297
+2019-04-03 12:00:15,141 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:16,143 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:17,145 INFO spawned: 'dj' with pid 3298
+2019-04-03 12:00:17,152 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:18,153 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:19,161 INFO spawned: 'dj' with pid 3299
+2019-04-03 12:00:19,168 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:20,170 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:21,172 INFO spawned: 'dj' with pid 3300
+2019-04-03 12:00:21,179 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:22,181 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:23,184 INFO spawned: 'dj' with pid 3301
+2019-04-03 12:00:23,191 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:24,193 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:25,195 INFO spawned: 'dj' with pid 3302
+2019-04-03 12:00:25,202 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:26,203 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:27,206 INFO spawned: 'dj' with pid 3303
+2019-04-03 12:00:27,213 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:28,215 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:29,218 INFO spawned: 'dj' with pid 3304
+2019-04-03 12:00:29,226 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:30,228 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:31,230 INFO spawned: 'dj' with pid 3305
+2019-04-03 12:00:31,237 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:32,239 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:33,241 INFO spawned: 'dj' with pid 3306
+2019-04-03 12:00:33,248 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:34,249 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:35,252 INFO spawned: 'dj' with pid 3307
+2019-04-03 12:00:35,259 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:36,261 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:37,264 INFO spawned: 'dj' with pid 3308
+2019-04-03 12:00:37,271 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:38,273 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:39,276 INFO spawned: 'dj' with pid 3309
+2019-04-03 12:00:39,283 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:40,284 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:41,287 INFO spawned: 'dj' with pid 3310
+2019-04-03 12:00:41,293 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:42,295 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:43,297 INFO spawned: 'dj' with pid 3311
+2019-04-03 12:00:43,304 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:44,306 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:45,308 INFO spawned: 'dj' with pid 3312
+2019-04-03 12:00:45,315 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:46,317 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:47,320 INFO spawned: 'dj' with pid 3313
+2019-04-03 12:00:47,327 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:48,329 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:49,337 INFO spawned: 'dj' with pid 3314
+2019-04-03 12:00:49,344 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:50,346 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:51,349 INFO spawned: 'dj' with pid 3315
+2019-04-03 12:00:51,356 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:52,357 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:53,360 INFO spawned: 'dj' with pid 3316
+2019-04-03 12:00:53,374 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:54,377 INFO spawned: 'dj' with pid 3317
+2019-04-03 12:00:54,384 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:55,386 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:56,388 INFO spawned: 'dj' with pid 3318
+2019-04-03 12:00:56,396 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:57,398 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:00:58,401 INFO spawned: 'dj' with pid 3319
+2019-04-03 12:00:58,408 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:00:59,410 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:00,413 INFO spawned: 'dj' with pid 3320
+2019-04-03 12:01:00,420 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:01,422 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:02,425 INFO spawned: 'dj' with pid 3321
+2019-04-03 12:01:02,435 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:03,437 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:04,441 INFO spawned: 'dj' with pid 3322
+2019-04-03 12:01:04,451 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:05,453 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:06,456 INFO spawned: 'dj' with pid 3323
+2019-04-03 12:01:06,463 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:07,464 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:08,467 INFO spawned: 'dj' with pid 3324
+2019-04-03 12:01:08,473 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:09,475 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:10,478 INFO spawned: 'dj' with pid 3325
+2019-04-03 12:01:10,485 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:11,487 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:12,490 INFO spawned: 'dj' with pid 3326
+2019-04-03 12:01:12,497 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:13,499 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:14,502 INFO spawned: 'dj' with pid 3327
+2019-04-03 12:01:14,509 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:15,511 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:16,514 INFO spawned: 'dj' with pid 3328
+2019-04-03 12:01:16,521 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:17,522 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:18,525 INFO spawned: 'dj' with pid 3329
+2019-04-03 12:01:18,532 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:19,534 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:20,537 INFO spawned: 'dj' with pid 3330
+2019-04-03 12:01:20,544 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:21,546 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:22,549 INFO spawned: 'dj' with pid 3331
+2019-04-03 12:01:22,556 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:23,558 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:24,562 INFO spawned: 'dj' with pid 3332
+2019-04-03 12:01:24,569 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:25,570 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:26,572 INFO spawned: 'dj' with pid 3333
+2019-04-03 12:01:26,580 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:27,582 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:28,585 INFO spawned: 'dj' with pid 3334
+2019-04-03 12:01:28,592 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:29,593 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:30,596 INFO spawned: 'dj' with pid 3335
+2019-04-03 12:01:30,603 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:31,605 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:32,608 INFO spawned: 'dj' with pid 3336
+2019-04-03 12:01:32,615 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:33,617 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:34,621 INFO spawned: 'dj' with pid 3337
+2019-04-03 12:01:34,628 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:35,630 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:36,633 INFO spawned: 'dj' with pid 3338
+2019-04-03 12:01:36,641 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:37,643 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:38,646 INFO spawned: 'dj' with pid 3339
+2019-04-03 12:01:38,654 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:39,657 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:40,658 INFO spawned: 'dj' with pid 3340
+2019-04-03 12:01:40,665 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:41,667 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:42,670 INFO spawned: 'dj' with pid 3341
+2019-04-03 12:01:42,677 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:43,679 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:44,683 INFO spawned: 'dj' with pid 3342
+2019-04-03 12:01:44,690 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:45,692 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:46,695 INFO spawned: 'dj' with pid 3343
+2019-04-03 12:01:46,702 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:47,704 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:48,707 INFO spawned: 'dj' with pid 3344
+2019-04-03 12:01:48,714 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:49,715 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:50,719 INFO spawned: 'dj' with pid 3345
+2019-04-03 12:01:50,725 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:51,727 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:52,729 INFO spawned: 'dj' with pid 3346
+2019-04-03 12:01:52,736 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:53,738 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:54,742 INFO spawned: 'dj' with pid 3347
+2019-04-03 12:01:54,749 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:55,750 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:56,753 INFO spawned: 'dj' with pid 3348
+2019-04-03 12:01:56,760 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:57,762 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:01:58,765 INFO spawned: 'dj' with pid 3349
+2019-04-03 12:01:58,772 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:01:59,774 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:00,777 INFO spawned: 'dj' with pid 3350
+2019-04-03 12:02:00,783 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:01,785 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:02,788 INFO spawned: 'dj' with pid 3351
+2019-04-03 12:02:02,795 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:03,797 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:04,800 INFO spawned: 'dj' with pid 3352
+2019-04-03 12:02:04,807 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:05,809 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:06,812 INFO spawned: 'dj' with pid 3353
+2019-04-03 12:02:06,819 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:07,821 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:08,823 INFO spawned: 'dj' with pid 3354
+2019-04-03 12:02:08,830 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:09,832 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:10,834 INFO spawned: 'dj' with pid 3355
+2019-04-03 12:02:10,841 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:11,843 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:12,846 INFO spawned: 'dj' with pid 3356
+2019-04-03 12:02:12,853 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:13,855 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:14,857 INFO spawned: 'dj' with pid 3357
+2019-04-03 12:02:14,865 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:15,866 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:16,869 INFO spawned: 'dj' with pid 3358
+2019-04-03 12:02:16,876 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:17,877 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:18,880 INFO spawned: 'dj' with pid 3359
+2019-04-03 12:02:18,887 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:19,888 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:20,896 INFO spawned: 'dj' with pid 3360
+2019-04-03 12:02:20,903 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:21,905 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:22,908 INFO spawned: 'dj' with pid 3361
+2019-04-03 12:02:22,914 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:23,916 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:24,919 INFO spawned: 'dj' with pid 3362
+2019-04-03 12:02:24,926 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:25,927 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:26,930 INFO spawned: 'dj' with pid 3363
+2019-04-03 12:02:26,937 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:27,939 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:28,942 INFO spawned: 'dj' with pid 3364
+2019-04-03 12:02:28,949 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:29,951 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:30,955 INFO spawned: 'dj' with pid 3365
+2019-04-03 12:02:30,962 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:31,964 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:32,966 INFO spawned: 'dj' with pid 3366
+2019-04-03 12:02:32,973 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:33,975 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:34,978 INFO spawned: 'dj' with pid 3367
+2019-04-03 12:02:34,986 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:35,988 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:36,991 INFO spawned: 'dj' with pid 3368
+2019-04-03 12:02:36,998 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:38,000 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:39,002 INFO spawned: 'dj' with pid 3369
+2019-04-03 12:02:39,009 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:40,011 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:41,015 INFO spawned: 'dj' with pid 3370
+2019-04-03 12:02:41,022 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:42,024 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:43,027 INFO spawned: 'dj' with pid 3371
+2019-04-03 12:02:43,034 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:44,035 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:45,038 INFO spawned: 'dj' with pid 3372
+2019-04-03 12:02:45,045 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:46,047 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:47,050 INFO spawned: 'dj' with pid 3373
+2019-04-03 12:02:47,057 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:48,059 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:49,062 INFO spawned: 'dj' with pid 3374
+2019-04-03 12:02:49,068 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:50,070 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:51,074 INFO spawned: 'dj' with pid 3375
+2019-04-03 12:02:51,081 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:52,083 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:53,086 INFO spawned: 'dj' with pid 3376
+2019-04-03 12:02:53,093 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:54,095 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:55,097 INFO spawned: 'dj' with pid 3377
+2019-04-03 12:02:55,104 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:56,106 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:57,108 INFO spawned: 'dj' with pid 3378
+2019-04-03 12:02:57,115 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:02:58,116 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:02:59,119 INFO spawned: 'dj' with pid 3379
+2019-04-03 12:02:59,126 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:00,128 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:01,132 INFO spawned: 'dj' with pid 3380
+2019-04-03 12:03:01,139 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:02,140 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:03,143 INFO spawned: 'dj' with pid 3381
+2019-04-03 12:03:03,150 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:04,151 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:05,153 INFO spawned: 'dj' with pid 3382
+2019-04-03 12:03:05,161 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:06,163 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:07,166 INFO spawned: 'dj' with pid 3383
+2019-04-03 12:03:07,173 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:08,175 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:09,177 INFO spawned: 'dj' with pid 3384
+2019-04-03 12:03:09,184 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:10,186 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:11,189 INFO spawned: 'dj' with pid 3385
+2019-04-03 12:03:11,195 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:12,197 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:13,200 INFO spawned: 'dj' with pid 3386
+2019-04-03 12:03:13,206 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:14,208 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:15,211 INFO spawned: 'dj' with pid 3387
+2019-04-03 12:03:15,221 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:16,223 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:17,225 INFO spawned: 'dj' with pid 3388
+2019-04-03 12:03:17,233 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:18,234 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:19,237 INFO spawned: 'dj' with pid 3389
+2019-04-03 12:03:19,244 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:20,246 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:21,251 INFO spawned: 'dj' with pid 3390
+2019-04-03 12:03:21,258 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:22,260 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:23,263 INFO spawned: 'dj' with pid 3391
+2019-04-03 12:03:23,270 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:24,272 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:25,275 INFO spawned: 'dj' with pid 3392
+2019-04-03 12:03:25,282 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:26,284 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:27,287 INFO spawned: 'dj' with pid 3393
+2019-04-03 12:03:27,294 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:28,296 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:29,299 INFO spawned: 'dj' with pid 3394
+2019-04-03 12:03:29,305 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:30,307 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:31,311 INFO spawned: 'dj' with pid 3395
+2019-04-03 12:03:31,318 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:32,320 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:33,323 INFO spawned: 'dj' with pid 3396
+2019-04-03 12:03:33,329 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:34,331 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:35,333 INFO spawned: 'dj' with pid 3397
+2019-04-03 12:03:35,341 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:36,342 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:37,345 INFO spawned: 'dj' with pid 3398
+2019-04-03 12:03:37,353 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:38,355 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:39,358 INFO spawned: 'dj' with pid 3399
+2019-04-03 12:03:39,365 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:40,367 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:41,371 INFO spawned: 'dj' with pid 3400
+2019-04-03 12:03:41,378 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:42,380 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:43,383 INFO spawned: 'dj' with pid 3401
+2019-04-03 12:03:43,389 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:44,391 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:45,394 INFO spawned: 'dj' with pid 3402
+2019-04-03 12:03:45,401 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:46,402 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:47,405 INFO spawned: 'dj' with pid 3403
+2019-04-03 12:03:47,415 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:48,417 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:49,420 INFO spawned: 'dj' with pid 3404
+2019-04-03 12:03:49,427 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:50,429 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:51,433 INFO spawned: 'dj' with pid 3405
+2019-04-03 12:03:51,439 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:52,441 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:53,444 INFO spawned: 'dj' with pid 3406
+2019-04-03 12:03:53,451 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:54,452 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:55,455 INFO spawned: 'dj' with pid 3407
+2019-04-03 12:03:55,461 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:56,463 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:57,465 INFO spawned: 'dj' with pid 3408
+2019-04-03 12:03:57,472 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:03:58,474 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:03:59,477 INFO spawned: 'dj' with pid 3409
+2019-04-03 12:03:59,484 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:00,486 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:01,489 INFO spawned: 'dj' with pid 3410
+2019-04-03 12:04:01,497 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:02,499 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:03,501 INFO spawned: 'dj' with pid 3411
+2019-04-03 12:04:03,508 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:04,510 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:05,512 INFO spawned: 'dj' with pid 3412
+2019-04-03 12:04:05,520 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:06,522 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:07,525 INFO spawned: 'dj' with pid 3413
+2019-04-03 12:04:07,531 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:08,533 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:09,536 INFO spawned: 'dj' with pid 3414
+2019-04-03 12:04:09,543 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:10,544 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:11,547 INFO spawned: 'dj' with pid 3415
+2019-04-03 12:04:11,554 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:12,556 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:13,559 INFO spawned: 'dj' with pid 3416
+2019-04-03 12:04:13,566 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:14,568 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:15,570 INFO spawned: 'dj' with pid 3417
+2019-04-03 12:04:15,577 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:16,579 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:17,582 INFO spawned: 'dj' with pid 3418
+2019-04-03 12:04:17,589 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:18,591 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:19,594 INFO spawned: 'dj' with pid 3419
+2019-04-03 12:04:19,602 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:20,603 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:21,607 INFO spawned: 'dj' with pid 3420
+2019-04-03 12:04:21,616 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:22,618 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:23,621 INFO spawned: 'dj' with pid 3421
+2019-04-03 12:04:23,630 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:24,632 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:25,635 INFO spawned: 'dj' with pid 3422
+2019-04-03 12:04:25,642 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:26,643 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:27,646 INFO spawned: 'dj' with pid 3423
+2019-04-03 12:04:27,653 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:28,655 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:29,657 INFO spawned: 'dj' with pid 3424
+2019-04-03 12:04:29,664 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:30,665 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:31,669 INFO spawned: 'dj' with pid 3425
+2019-04-03 12:04:31,675 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:32,677 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:33,680 INFO spawned: 'dj' with pid 3426
+2019-04-03 12:04:33,688 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:34,690 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:35,693 INFO spawned: 'dj' with pid 3427
+2019-04-03 12:04:35,700 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:36,702 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:37,705 INFO spawned: 'dj' with pid 3428
+2019-04-03 12:04:37,712 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:38,714 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:39,717 INFO spawned: 'dj' with pid 3429
+2019-04-03 12:04:39,725 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:40,727 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:41,730 INFO spawned: 'dj' with pid 3430
+2019-04-03 12:04:41,737 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:42,739 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:43,741 INFO spawned: 'dj' with pid 3431
+2019-04-03 12:04:43,749 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:44,751 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:45,753 INFO spawned: 'dj' with pid 3432
+2019-04-03 12:04:45,760 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:46,762 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:47,764 INFO spawned: 'dj' with pid 3433
+2019-04-03 12:04:47,771 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:48,773 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:49,775 INFO spawned: 'dj' with pid 3434
+2019-04-03 12:04:49,783 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:50,785 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:51,789 INFO spawned: 'dj' with pid 3435
+2019-04-03 12:04:51,796 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:52,798 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:53,801 INFO spawned: 'dj' with pid 3436
+2019-04-03 12:04:53,808 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:54,809 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:55,811 INFO spawned: 'dj' with pid 3437
+2019-04-03 12:04:55,819 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:56,820 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:57,823 INFO spawned: 'dj' with pid 3438
+2019-04-03 12:04:57,830 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:04:58,832 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:04:59,834 INFO spawned: 'dj' with pid 3439
+2019-04-03 12:04:59,841 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:00,843 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:01,847 INFO spawned: 'dj' with pid 3440
+2019-04-03 12:05:01,855 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:02,857 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:03,860 INFO spawned: 'dj' with pid 3444
+2019-04-03 12:05:03,868 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:04,870 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:05,873 INFO spawned: 'dj' with pid 3445
+2019-04-03 12:05:05,882 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:06,884 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:07,887 INFO spawned: 'dj' with pid 3446
+2019-04-03 12:05:07,893 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:08,895 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:09,898 INFO spawned: 'dj' with pid 3447
+2019-04-03 12:05:09,906 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:10,908 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:11,910 INFO spawned: 'dj' with pid 3448
+2019-04-03 12:05:11,917 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:12,919 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:13,923 INFO spawned: 'dj' with pid 3449
+2019-04-03 12:05:13,930 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:14,932 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:15,935 INFO spawned: 'dj' with pid 3450
+2019-04-03 12:05:15,941 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:16,943 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:17,945 INFO spawned: 'dj' with pid 3451
+2019-04-03 12:05:17,952 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:18,954 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:19,957 INFO spawned: 'dj' with pid 3452
+2019-04-03 12:05:19,964 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:20,966 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:21,969 INFO spawned: 'dj' with pid 3453
+2019-04-03 12:05:21,976 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:22,978 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:23,984 INFO spawned: 'dj' with pid 3454
+2019-04-03 12:05:23,991 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:24,993 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:25,995 INFO spawned: 'dj' with pid 3455
+2019-04-03 12:05:26,003 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:27,005 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:28,007 INFO spawned: 'dj' with pid 3456
+2019-04-03 12:05:28,014 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:29,016 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:30,019 INFO spawned: 'dj' with pid 3457
+2019-04-03 12:05:30,026 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:31,028 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:32,030 INFO spawned: 'dj' with pid 3458
+2019-04-03 12:05:32,037 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:33,039 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:34,043 INFO spawned: 'dj' with pid 3459
+2019-04-03 12:05:34,049 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:35,050 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:36,053 INFO spawned: 'dj' with pid 3460
+2019-04-03 12:05:36,061 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:37,063 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:38,065 INFO spawned: 'dj' with pid 3461
+2019-04-03 12:05:38,072 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:39,074 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:40,077 INFO spawned: 'dj' with pid 3462
+2019-04-03 12:05:40,085 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:41,087 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:42,089 INFO spawned: 'dj' with pid 3463
+2019-04-03 12:05:42,097 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:43,099 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:44,102 INFO spawned: 'dj' with pid 3464
+2019-04-03 12:05:44,110 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:45,112 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:46,114 INFO spawned: 'dj' with pid 3465
+2019-04-03 12:05:46,121 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:47,122 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:48,125 INFO spawned: 'dj' with pid 3466
+2019-04-03 12:05:48,132 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:49,134 INFO spawned: 'dj' with pid 3467
+2019-04-03 12:05:49,142 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:50,144 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:51,146 INFO spawned: 'dj' with pid 3468
+2019-04-03 12:05:51,153 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:52,155 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:53,157 INFO spawned: 'dj' with pid 3469
+2019-04-03 12:05:53,165 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:54,167 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:55,169 INFO spawned: 'dj' with pid 3470
+2019-04-03 12:05:55,176 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:56,178 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:57,180 INFO spawned: 'dj' with pid 3471
+2019-04-03 12:05:57,187 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:05:58,189 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:05:59,192 INFO spawned: 'dj' with pid 3472
+2019-04-03 12:05:59,199 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:00,200 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:01,203 INFO spawned: 'dj' with pid 3473
+2019-04-03 12:06:01,210 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:02,212 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:03,215 INFO spawned: 'dj' with pid 3474
+2019-04-03 12:06:03,222 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:04,224 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:05,227 INFO spawned: 'dj' with pid 3475
+2019-04-03 12:06:05,234 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:06,236 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:07,238 INFO spawned: 'dj' with pid 3476
+2019-04-03 12:06:07,245 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:08,247 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:09,251 INFO spawned: 'dj' with pid 3477
+2019-04-03 12:06:09,257 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:10,259 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:11,262 INFO spawned: 'dj' with pid 3478
+2019-04-03 12:06:11,271 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:12,273 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:13,276 INFO spawned: 'dj' with pid 3479
+2019-04-03 12:06:13,283 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:14,284 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:15,286 INFO spawned: 'dj' with pid 3480
+2019-04-03 12:06:15,293 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:16,295 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:17,297 INFO spawned: 'dj' with pid 3481
+2019-04-03 12:06:17,304 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:18,306 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:19,309 INFO spawned: 'dj' with pid 3482
+2019-04-03 12:06:19,316 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:20,318 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:21,321 INFO spawned: 'dj' with pid 3483
+2019-04-03 12:06:21,328 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:22,329 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:23,332 INFO spawned: 'dj' with pid 3484
+2019-04-03 12:06:23,339 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:24,340 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:25,343 INFO spawned: 'dj' with pid 3485
+2019-04-03 12:06:25,350 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:26,352 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:27,355 INFO spawned: 'dj' with pid 3486
+2019-04-03 12:06:27,361 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:28,363 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:29,367 INFO spawned: 'dj' with pid 3487
+2019-04-03 12:06:29,374 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:30,376 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:31,379 INFO spawned: 'dj' with pid 3488
+2019-04-03 12:06:31,385 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:32,387 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:33,390 INFO spawned: 'dj' with pid 3489
+2019-04-03 12:06:33,399 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:34,401 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:35,403 INFO spawned: 'dj' with pid 3490
+2019-04-03 12:06:35,411 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:36,412 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:37,415 INFO spawned: 'dj' with pid 3491
+2019-04-03 12:06:37,423 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:38,424 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:39,428 INFO spawned: 'dj' with pid 3492
+2019-04-03 12:06:39,434 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:40,436 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:41,439 INFO spawned: 'dj' with pid 3493
+2019-04-03 12:06:41,446 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:42,448 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:43,451 INFO spawned: 'dj' with pid 3494
+2019-04-03 12:06:43,459 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:44,461 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:45,464 INFO spawned: 'dj' with pid 3495
+2019-04-03 12:06:45,471 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:46,472 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:47,474 INFO spawned: 'dj' with pid 3496
+2019-04-03 12:06:47,481 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:48,483 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:49,486 INFO spawned: 'dj' with pid 3497
+2019-04-03 12:06:49,493 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:50,495 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:51,497 INFO spawned: 'dj' with pid 3498
+2019-04-03 12:06:51,505 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:52,507 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:53,509 INFO spawned: 'dj' with pid 3499
+2019-04-03 12:06:53,517 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:54,518 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:55,521 INFO spawned: 'dj' with pid 3500
+2019-04-03 12:06:55,529 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:56,531 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:57,534 INFO spawned: 'dj' with pid 3501
+2019-04-03 12:06:57,541 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:06:58,542 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:06:59,547 INFO spawned: 'dj' with pid 3502
+2019-04-03 12:06:59,554 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:00,556 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:01,558 INFO spawned: 'dj' with pid 3503
+2019-04-03 12:07:01,565 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:02,567 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:03,570 INFO spawned: 'dj' with pid 3504
+2019-04-03 12:07:03,578 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:04,580 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:05,582 INFO spawned: 'dj' with pid 3505
+2019-04-03 12:07:05,588 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:06,590 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:07,593 INFO spawned: 'dj' with pid 3506
+2019-04-03 12:07:07,600 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:08,602 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:09,606 INFO spawned: 'dj' with pid 3507
+2019-04-03 12:07:09,613 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:10,615 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:11,617 INFO spawned: 'dj' with pid 3508
+2019-04-03 12:07:11,624 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:12,626 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:13,629 INFO spawned: 'dj' with pid 3509
+2019-04-03 12:07:13,638 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:14,640 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:15,643 INFO spawned: 'dj' with pid 3510
+2019-04-03 12:07:15,649 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:16,650 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:17,653 INFO spawned: 'dj' with pid 3511
+2019-04-03 12:07:17,661 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:18,663 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:19,667 INFO spawned: 'dj' with pid 3512
+2019-04-03 12:07:19,673 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:20,675 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:21,678 INFO spawned: 'dj' with pid 3513
+2019-04-03 12:07:21,685 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:22,686 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:23,689 INFO spawned: 'dj' with pid 3514
+2019-04-03 12:07:23,696 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:24,698 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:25,701 INFO spawned: 'dj' with pid 3515
+2019-04-03 12:07:25,708 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:26,710 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:27,712 INFO spawned: 'dj' with pid 3516
+2019-04-03 12:07:27,719 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:28,720 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:29,724 INFO spawned: 'dj' with pid 3517
+2019-04-03 12:07:29,731 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:30,732 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:31,735 INFO spawned: 'dj' with pid 3518
+2019-04-03 12:07:31,742 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:32,744 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:33,747 INFO spawned: 'dj' with pid 3519
+2019-04-03 12:07:33,755 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:34,757 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:35,759 INFO spawned: 'dj' with pid 3520
+2019-04-03 12:07:35,766 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:36,768 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:37,770 INFO spawned: 'dj' with pid 3521
+2019-04-03 12:07:37,777 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:38,779 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:39,787 INFO spawned: 'dj' with pid 3522
+2019-04-03 12:07:39,793 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:40,795 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:41,797 INFO spawned: 'dj' with pid 3523
+2019-04-03 12:07:41,805 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:42,807 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:43,810 INFO spawned: 'dj' with pid 3524
+2019-04-03 12:07:43,817 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:44,819 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:45,822 INFO spawned: 'dj' with pid 3525
+2019-04-03 12:07:45,829 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:46,831 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:47,834 INFO spawned: 'dj' with pid 3526
+2019-04-03 12:07:47,841 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:48,842 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:49,846 INFO spawned: 'dj' with pid 3527
+2019-04-03 12:07:49,853 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:50,855 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:51,857 INFO spawned: 'dj' with pid 3528
+2019-04-03 12:07:51,864 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:52,866 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:53,869 INFO spawned: 'dj' with pid 3529
+2019-04-03 12:07:53,876 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:54,878 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:55,881 INFO spawned: 'dj' with pid 3530
+2019-04-03 12:07:55,889 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:56,890 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:57,893 INFO spawned: 'dj' with pid 3531
+2019-04-03 12:07:57,900 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:07:58,902 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:07:59,906 INFO spawned: 'dj' with pid 3532
+2019-04-03 12:07:59,913 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:00,915 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:01,918 INFO spawned: 'dj' with pid 3533
+2019-04-03 12:08:01,926 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:02,928 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:03,931 INFO spawned: 'dj' with pid 3534
+2019-04-03 12:08:03,939 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:04,940 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:05,943 INFO spawned: 'dj' with pid 3535
+2019-04-03 12:08:05,950 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:06,952 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:07,954 INFO spawned: 'dj' with pid 3536
+2019-04-03 12:08:07,962 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:08,964 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:09,968 INFO spawned: 'dj' with pid 3537
+2019-04-03 12:08:09,975 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:10,976 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:11,979 INFO spawned: 'dj' with pid 3538
+2019-04-03 12:08:11,986 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:12,988 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:13,991 INFO spawned: 'dj' with pid 3539
+2019-04-03 12:08:13,998 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:15,000 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:16,003 INFO spawned: 'dj' with pid 3540
+2019-04-03 12:08:16,010 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:17,012 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:18,014 INFO spawned: 'dj' with pid 3541
+2019-04-03 12:08:18,021 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:19,023 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:20,027 INFO spawned: 'dj' with pid 3542
+2019-04-03 12:08:20,033 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:21,035 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:22,038 INFO spawned: 'dj' with pid 3543
+2019-04-03 12:08:22,046 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:23,047 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:24,050 INFO spawned: 'dj' with pid 3544
+2019-04-03 12:08:24,057 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:25,059 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:26,061 INFO spawned: 'dj' with pid 3545
+2019-04-03 12:08:26,069 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:27,071 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:28,073 INFO spawned: 'dj' with pid 3546
+2019-04-03 12:08:28,080 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:29,082 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:30,085 INFO spawned: 'dj' with pid 3547
+2019-04-03 12:08:30,093 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:31,095 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:32,098 INFO spawned: 'dj' with pid 3548
+2019-04-03 12:08:32,104 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:33,106 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:34,109 INFO spawned: 'dj' with pid 3549
+2019-04-03 12:08:34,116 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:35,118 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:36,120 INFO spawned: 'dj' with pid 3550
+2019-04-03 12:08:36,127 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:37,129 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:38,131 INFO spawned: 'dj' with pid 3551
+2019-04-03 12:08:38,137 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:39,139 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:40,143 INFO spawned: 'dj' with pid 3552
+2019-04-03 12:08:40,150 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:41,153 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:42,155 INFO spawned: 'dj' with pid 3553
+2019-04-03 12:08:42,163 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:43,165 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:44,168 INFO spawned: 'dj' with pid 3554
+2019-04-03 12:08:44,175 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:45,176 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:46,179 INFO spawned: 'dj' with pid 3555
+2019-04-03 12:08:46,186 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:47,187 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:48,190 INFO spawned: 'dj' with pid 3556
+2019-04-03 12:08:48,199 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:49,201 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:50,205 INFO spawned: 'dj' with pid 3557
+2019-04-03 12:08:50,212 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:51,214 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:52,217 INFO spawned: 'dj' with pid 3558
+2019-04-03 12:08:52,223 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:53,225 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:54,228 INFO spawned: 'dj' with pid 3559
+2019-04-03 12:08:54,235 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:55,237 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:56,240 INFO spawned: 'dj' with pid 3560
+2019-04-03 12:08:56,247 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:57,248 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:08:58,251 INFO spawned: 'dj' with pid 3561
+2019-04-03 12:08:58,258 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:08:59,260 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:00,264 INFO spawned: 'dj' with pid 3562
+2019-04-03 12:09:00,271 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:01,273 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:02,283 INFO spawned: 'dj' with pid 3563
+2019-04-03 12:09:02,291 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:03,293 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:04,295 INFO spawned: 'dj' with pid 3564
+2019-04-03 12:09:04,303 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:05,304 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:06,307 INFO spawned: 'dj' with pid 3565
+2019-04-03 12:09:06,314 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:07,316 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:08,318 INFO spawned: 'dj' with pid 3566
+2019-04-03 12:09:08,326 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:09,328 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:10,332 INFO spawned: 'dj' with pid 3567
+2019-04-03 12:09:10,339 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:11,341 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:12,343 INFO spawned: 'dj' with pid 3568
+2019-04-03 12:09:12,351 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:13,352 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:14,355 INFO spawned: 'dj' with pid 3569
+2019-04-03 12:09:14,362 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:15,363 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:16,366 INFO spawned: 'dj' with pid 3570
+2019-04-03 12:09:16,373 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:17,375 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:18,378 INFO spawned: 'dj' with pid 3571
+2019-04-03 12:09:18,385 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:19,387 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:20,391 INFO spawned: 'dj' with pid 3572
+2019-04-03 12:09:20,397 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:21,399 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:22,402 INFO spawned: 'dj' with pid 3573
+2019-04-03 12:09:22,408 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:23,410 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:24,413 INFO spawned: 'dj' with pid 3574
+2019-04-03 12:09:24,420 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:25,422 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:26,424 INFO spawned: 'dj' with pid 3575
+2019-04-03 12:09:26,431 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:27,432 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:28,435 INFO spawned: 'dj' with pid 3576
+2019-04-03 12:09:28,442 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:29,444 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:30,462 INFO spawned: 'dj' with pid 3577
+2019-04-03 12:09:30,470 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:31,472 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:32,475 INFO spawned: 'dj' with pid 3578
+2019-04-03 12:09:32,481 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:33,483 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:34,485 INFO spawned: 'dj' with pid 3579
+2019-04-03 12:09:34,492 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:35,494 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:36,497 INFO spawned: 'dj' with pid 3580
+2019-04-03 12:09:36,505 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:37,507 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:38,509 INFO spawned: 'dj' with pid 3581
+2019-04-03 12:09:38,516 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:39,518 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:40,522 INFO spawned: 'dj' with pid 3582
+2019-04-03 12:09:40,529 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:41,530 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:42,533 INFO spawned: 'dj' with pid 3583
+2019-04-03 12:09:42,540 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:43,542 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:44,544 INFO spawned: 'dj' with pid 3584
+2019-04-03 12:09:44,552 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:45,554 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:46,557 INFO spawned: 'dj' with pid 3585
+2019-04-03 12:09:46,564 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:47,566 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:48,568 INFO spawned: 'dj' with pid 3586
+2019-04-03 12:09:48,575 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:49,577 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:50,580 INFO spawned: 'dj' with pid 3587
+2019-04-03 12:09:50,587 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:51,588 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:52,591 INFO spawned: 'dj' with pid 3588
+2019-04-03 12:09:52,598 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:53,600 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:54,603 INFO spawned: 'dj' with pid 3589
+2019-04-03 12:09:54,610 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:55,612 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:56,614 INFO spawned: 'dj' with pid 3590
+2019-04-03 12:09:56,621 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:57,623 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:09:58,625 INFO spawned: 'dj' with pid 3591
+2019-04-03 12:09:58,633 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:09:59,634 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:00,638 INFO spawned: 'dj' with pid 3592
+2019-04-03 12:10:00,645 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:01,647 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:02,649 INFO spawned: 'dj' with pid 3593
+2019-04-03 12:10:02,656 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:03,658 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:04,660 INFO spawned: 'dj' with pid 3594
+2019-04-03 12:10:04,667 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:05,669 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:06,671 INFO spawned: 'dj' with pid 3595
+2019-04-03 12:10:06,678 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:07,679 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:08,683 INFO spawned: 'dj' with pid 3596
+2019-04-03 12:10:08,691 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:09,692 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:10,695 INFO spawned: 'dj' with pid 3597
+2019-04-03 12:10:10,702 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:11,703 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:12,706 INFO spawned: 'dj' with pid 3598
+2019-04-03 12:10:12,713 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:13,715 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:14,718 INFO spawned: 'dj' with pid 3599
+2019-04-03 12:10:14,725 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:15,727 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:16,729 INFO spawned: 'dj' with pid 3600
+2019-04-03 12:10:16,736 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:17,738 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:18,742 INFO spawned: 'dj' with pid 3601
+2019-04-03 12:10:18,749 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:19,751 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:20,753 INFO spawned: 'dj' with pid 3602
+2019-04-03 12:10:20,760 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:21,762 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:22,765 INFO spawned: 'dj' with pid 3603
+2019-04-03 12:10:22,772 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:23,774 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:24,777 INFO spawned: 'dj' with pid 3604
+2019-04-03 12:10:24,785 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:25,786 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:26,789 INFO spawned: 'dj' with pid 3605
+2019-04-03 12:10:26,797 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:27,798 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:28,802 INFO spawned: 'dj' with pid 3606
+2019-04-03 12:10:28,811 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:29,812 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:30,815 INFO spawned: 'dj' with pid 3607
+2019-04-03 12:10:30,822 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:31,824 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:32,827 INFO spawned: 'dj' with pid 3608
+2019-04-03 12:10:32,834 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:33,836 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:34,839 INFO spawned: 'dj' with pid 3609
+2019-04-03 12:10:34,846 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:35,847 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:36,850 INFO spawned: 'dj' with pid 3610
+2019-04-03 12:10:36,857 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:37,859 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:38,862 INFO spawned: 'dj' with pid 3611
+2019-04-03 12:10:38,869 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:39,871 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:40,873 INFO spawned: 'dj' with pid 3612
+2019-04-03 12:10:40,881 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:41,882 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:42,885 INFO spawned: 'dj' with pid 3613
+2019-04-03 12:10:42,892 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:43,894 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:44,896 INFO spawned: 'dj' with pid 3614
+2019-04-03 12:10:44,903 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:45,905 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:46,908 INFO spawned: 'dj' with pid 3615
+2019-04-03 12:10:46,915 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:47,917 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:48,921 INFO spawned: 'dj' with pid 3616
+2019-04-03 12:10:48,928 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:49,930 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:50,933 INFO spawned: 'dj' with pid 3617
+2019-04-03 12:10:50,939 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:51,940 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:52,943 INFO spawned: 'dj' with pid 3618
+2019-04-03 12:10:52,949 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:53,960 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:54,963 INFO spawned: 'dj' with pid 3619
+2019-04-03 12:10:54,970 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:55,972 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:56,974 INFO spawned: 'dj' with pid 3620
+2019-04-03 12:10:56,982 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:10:57,995 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:10:58,999 INFO spawned: 'dj' with pid 3621
+2019-04-03 12:10:59,006 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:00,007 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:01,010 INFO spawned: 'dj' with pid 3622
+2019-04-03 12:11:01,018 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:02,019 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:03,022 INFO spawned: 'dj' with pid 3623
+2019-04-03 12:11:03,029 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:04,031 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:05,034 INFO spawned: 'dj' with pid 3624
+2019-04-03 12:11:05,041 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:06,042 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:07,044 INFO spawned: 'dj' with pid 3625
+2019-04-03 12:11:07,051 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:08,052 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:09,057 INFO spawned: 'dj' with pid 3626
+2019-04-03 12:11:09,064 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:10,066 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:11,068 INFO spawned: 'dj' with pid 3627
+2019-04-03 12:11:11,075 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:12,076 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:13,079 INFO spawned: 'dj' with pid 3628
+2019-04-03 12:11:13,087 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:14,088 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:15,092 INFO spawned: 'dj' with pid 3629
+2019-04-03 12:11:15,103 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:16,105 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:17,108 INFO spawned: 'dj' with pid 3630
+2019-04-03 12:11:17,114 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:18,116 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:19,120 INFO spawned: 'dj' with pid 3631
+2019-04-03 12:11:19,126 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:20,128 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:21,131 INFO spawned: 'dj' with pid 3632
+2019-04-03 12:11:21,138 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:22,140 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:23,143 INFO spawned: 'dj' with pid 3633
+2019-04-03 12:11:23,151 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:24,152 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:25,155 INFO spawned: 'dj' with pid 3634
+2019-04-03 12:11:25,162 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:26,164 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:27,167 INFO spawned: 'dj' with pid 3635
+2019-04-03 12:11:27,173 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:28,175 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:29,179 INFO spawned: 'dj' with pid 3636
+2019-04-03 12:11:29,186 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:30,187 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:31,189 INFO spawned: 'dj' with pid 3637
+2019-04-03 12:11:31,196 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:32,198 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:33,200 INFO spawned: 'dj' with pid 3638
+2019-04-03 12:11:33,207 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:34,208 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:35,211 INFO spawned: 'dj' with pid 3639
+2019-04-03 12:11:35,218 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:36,220 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:37,222 INFO spawned: 'dj' with pid 3640
+2019-04-03 12:11:37,229 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:38,230 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:39,234 INFO spawned: 'dj' with pid 3641
+2019-04-03 12:11:39,241 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:40,242 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:41,245 INFO spawned: 'dj' with pid 3642
+2019-04-03 12:11:41,252 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:42,253 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:43,256 INFO spawned: 'dj' with pid 3643
+2019-04-03 12:11:43,265 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:44,267 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:45,269 INFO spawned: 'dj' with pid 3644
+2019-04-03 12:11:45,276 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:46,277 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:47,280 INFO spawned: 'dj' with pid 3645
+2019-04-03 12:11:47,287 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:48,289 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:49,293 INFO spawned: 'dj' with pid 3646
+2019-04-03 12:11:49,299 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:50,301 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:51,304 INFO spawned: 'dj' with pid 3647
+2019-04-03 12:11:51,311 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:52,312 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:53,314 INFO spawned: 'dj' with pid 3648
+2019-04-03 12:11:53,322 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:54,324 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:55,326 INFO spawned: 'dj' with pid 3649
+2019-04-03 12:11:55,334 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:56,336 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:57,339 INFO spawned: 'dj' with pid 3650
+2019-04-03 12:11:57,346 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:11:58,348 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:11:59,350 INFO spawned: 'dj' with pid 3651
+2019-04-03 12:11:59,358 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:00,359 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:01,361 INFO spawned: 'dj' with pid 3652
+2019-04-03 12:12:01,368 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:02,370 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:03,373 INFO spawned: 'dj' with pid 3653
+2019-04-03 12:12:03,381 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:04,383 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:05,386 INFO spawned: 'dj' with pid 3654
+2019-04-03 12:12:05,392 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:06,394 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:07,397 INFO spawned: 'dj' with pid 3655
+2019-04-03 12:12:07,404 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:08,406 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:09,409 INFO spawned: 'dj' with pid 3659
+2019-04-03 12:12:09,417 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:10,418 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:11,421 INFO spawned: 'dj' with pid 3662
+2019-04-03 12:12:11,428 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:12,430 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:13,433 INFO spawned: 'dj' with pid 3663
+2019-04-03 12:12:13,439 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:14,441 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:15,444 INFO spawned: 'dj' with pid 3666
+2019-04-03 12:12:15,452 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:16,454 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:17,456 INFO spawned: 'dj' with pid 3667
+2019-04-03 12:12:17,463 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:18,465 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:19,468 INFO spawned: 'dj' with pid 3668
+2019-04-03 12:12:19,474 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:20,476 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:21,479 INFO spawned: 'dj' with pid 3669
+2019-04-03 12:12:21,486 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:22,487 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:23,490 INFO spawned: 'dj' with pid 3670
+2019-04-03 12:12:23,497 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:24,498 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:25,501 INFO spawned: 'dj' with pid 3671
+2019-04-03 12:12:25,508 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:26,510 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:27,514 INFO spawned: 'dj' with pid 3672
+2019-04-03 12:12:27,521 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:28,521 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:29,524 INFO spawned: 'dj' with pid 3673
+2019-04-03 12:12:29,531 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:30,533 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:31,535 INFO spawned: 'dj' with pid 3674
+2019-04-03 12:12:31,542 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:32,544 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:33,547 INFO spawned: 'dj' with pid 3675
+2019-04-03 12:12:33,554 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:34,556 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:35,558 INFO spawned: 'dj' with pid 3676
+2019-04-03 12:12:35,566 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:36,568 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:37,570 INFO spawned: 'dj' with pid 3677
+2019-04-03 12:12:37,578 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:38,579 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:39,582 INFO spawned: 'dj' with pid 3678
+2019-04-03 12:12:39,589 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:40,591 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:41,605 INFO spawned: 'dj' with pid 3679
+2019-04-03 12:12:41,614 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:42,616 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:43,623 INFO spawned: 'dj' with pid 3680
+2019-04-03 12:12:43,629 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:44,631 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:45,634 INFO spawned: 'dj' with pid 3681
+2019-04-03 12:12:45,641 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:46,642 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:47,645 INFO spawned: 'dj' with pid 3682
+2019-04-03 12:12:47,653 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:48,655 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:49,657 INFO spawned: 'dj' with pid 3683
+2019-04-03 12:12:49,664 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:50,665 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:51,667 INFO spawned: 'dj' with pid 3684
+2019-04-03 12:12:51,675 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:52,677 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:53,679 INFO spawned: 'dj' with pid 3685
+2019-04-03 12:12:53,687 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:54,689 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:55,691 INFO spawned: 'dj' with pid 3686
+2019-04-03 12:12:55,698 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:56,700 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:57,703 INFO spawned: 'dj' with pid 3687
+2019-04-03 12:12:57,709 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:12:58,711 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:12:59,714 INFO spawned: 'dj' with pid 3688
+2019-04-03 12:12:59,721 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:00,723 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:01,726 INFO spawned: 'dj' with pid 3689
+2019-04-03 12:13:01,733 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:02,734 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:03,737 INFO spawned: 'dj' with pid 3690
+2019-04-03 12:13:03,744 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:04,746 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:05,748 INFO spawned: 'dj' with pid 3691
+2019-04-03 12:13:05,755 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:06,757 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:07,760 INFO spawned: 'dj' with pid 3692
+2019-04-03 12:13:07,766 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:08,768 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:09,773 INFO spawned: 'dj' with pid 3693
+2019-04-03 12:13:09,780 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:10,782 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:11,784 INFO spawned: 'dj' with pid 3694
+2019-04-03 12:13:11,792 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:12,794 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:13,796 INFO spawned: 'dj' with pid 3695
+2019-04-03 12:13:13,803 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:14,804 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:15,807 INFO spawned: 'dj' with pid 3696
+2019-04-03 12:13:15,814 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:16,816 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:17,818 INFO spawned: 'dj' with pid 3697
+2019-04-03 12:13:17,825 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:18,827 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:19,834 INFO spawned: 'dj' with pid 3698
+2019-04-03 12:13:19,841 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:20,842 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:21,845 INFO spawned: 'dj' with pid 3699
+2019-04-03 12:13:21,852 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:22,854 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:23,857 INFO spawned: 'dj' with pid 3700
+2019-04-03 12:13:23,864 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:24,866 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:25,868 INFO spawned: 'dj' with pid 3701
+2019-04-03 12:13:25,876 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:26,878 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:27,881 INFO spawned: 'dj' with pid 3702
+2019-04-03 12:13:27,888 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:28,890 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:29,894 INFO spawned: 'dj' with pid 3703
+2019-04-03 12:13:29,901 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:30,903 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:31,905 INFO spawned: 'dj' with pid 3704
+2019-04-03 12:13:31,912 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:32,914 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:33,917 INFO spawned: 'dj' with pid 3705
+2019-04-03 12:13:33,924 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:34,926 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:35,928 INFO spawned: 'dj' with pid 3706
+2019-04-03 12:13:35,935 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:36,936 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:37,938 INFO spawned: 'dj' with pid 3707
+2019-04-03 12:13:37,945 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:38,946 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:39,949 INFO spawned: 'dj' with pid 3708
+2019-04-03 12:13:39,956 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:40,959 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:41,961 INFO spawned: 'dj' with pid 3709
+2019-04-03 12:13:41,968 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:42,971 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:43,973 INFO spawned: 'dj' with pid 3711
+2019-04-03 12:13:43,986 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:44,988 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:45,991 INFO spawned: 'dj' with pid 3734
+2019-04-03 12:13:45,998 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:47,000 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:48,003 INFO spawned: 'dj' with pid 3735
+2019-04-03 12:13:48,010 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:49,012 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:50,015 INFO spawned: 'dj' with pid 3736
+2019-04-03 12:13:50,022 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:51,023 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:52,026 INFO spawned: 'dj' with pid 3737
+2019-04-03 12:13:52,033 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:53,035 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:54,037 INFO spawned: 'dj' with pid 3738
+2019-04-03 12:13:54,044 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:55,046 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:56,049 INFO spawned: 'dj' with pid 3739
+2019-04-03 12:13:56,056 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:57,058 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:13:58,061 INFO spawned: 'dj' with pid 3740
+2019-04-03 12:13:58,067 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:13:59,069 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:00,073 INFO spawned: 'dj' with pid 3741
+2019-04-03 12:14:00,080 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:01,082 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:02,084 INFO spawned: 'dj' with pid 3742
+2019-04-03 12:14:02,092 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:03,093 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:04,096 INFO spawned: 'dj' with pid 3743
+2019-04-03 12:14:04,102 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:05,104 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:06,107 INFO spawned: 'dj' with pid 3746
+2019-04-03 12:14:06,119 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:07,126 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:08,129 INFO spawned: 'dj' with pid 3753
+2019-04-03 12:14:08,138 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:09,140 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:10,144 INFO spawned: 'dj' with pid 3754
+2019-04-03 12:14:10,151 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:11,153 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:12,156 INFO spawned: 'dj' with pid 3755
+2019-04-03 12:14:12,163 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:13,165 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:14,167 INFO spawned: 'dj' with pid 3756
+2019-04-03 12:14:14,175 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:15,176 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:16,179 INFO spawned: 'dj' with pid 3757
+2019-04-03 12:14:16,186 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:17,188 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:18,190 INFO spawned: 'dj' with pid 3758
+2019-04-03 12:14:18,197 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:19,199 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:20,201 INFO spawned: 'dj' with pid 3759
+2019-04-03 12:14:20,208 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:21,210 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:22,212 INFO spawned: 'dj' with pid 3760
+2019-04-03 12:14:22,219 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:23,221 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:24,223 INFO spawned: 'dj' with pid 3761
+2019-04-03 12:14:24,230 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:25,232 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:26,235 INFO spawned: 'dj' with pid 3762
+2019-04-03 12:14:26,241 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:27,243 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:28,246 INFO spawned: 'dj' with pid 3763
+2019-04-03 12:14:28,252 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:29,254 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:30,260 INFO spawned: 'dj' with pid 3764
+2019-04-03 12:14:30,267 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:31,269 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:32,272 INFO spawned: 'dj' with pid 3765
+2019-04-03 12:14:32,279 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:33,281 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:34,283 INFO spawned: 'dj' with pid 3766
+2019-04-03 12:14:34,291 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:35,293 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:36,295 INFO spawned: 'dj' with pid 3767
+2019-04-03 12:14:36,302 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:37,303 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:38,306 INFO spawned: 'dj' with pid 3768
+2019-04-03 12:14:38,313 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:39,315 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:40,318 INFO spawned: 'dj' with pid 3769
+2019-04-03 12:14:40,326 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:41,327 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:42,330 INFO spawned: 'dj' with pid 3770
+2019-04-03 12:14:42,337 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:43,339 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:44,342 INFO spawned: 'dj' with pid 3771
+2019-04-03 12:14:44,349 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:45,351 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:46,354 INFO spawned: 'dj' with pid 3772
+2019-04-03 12:14:46,360 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:47,361 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:48,364 INFO spawned: 'dj' with pid 3773
+2019-04-03 12:14:48,372 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:49,374 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:50,379 INFO spawned: 'dj' with pid 3774
+2019-04-03 12:14:50,387 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:51,388 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:52,391 INFO spawned: 'dj' with pid 3775
+2019-04-03 12:14:52,399 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:53,401 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:54,403 INFO spawned: 'dj' with pid 3776
+2019-04-03 12:14:54,411 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:55,413 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:56,416 INFO spawned: 'dj' with pid 3777
+2019-04-03 12:14:56,423 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:57,425 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:14:58,428 INFO spawned: 'dj' with pid 3778
+2019-04-03 12:14:58,435 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:14:59,437 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:00,444 INFO spawned: 'dj' with pid 3779
+2019-04-03 12:15:00,452 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:01,454 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:02,457 INFO spawned: 'dj' with pid 3783
+2019-04-03 12:15:02,464 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:03,465 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:04,467 INFO spawned: 'dj' with pid 3784
+2019-04-03 12:15:04,474 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:05,475 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:06,478 INFO spawned: 'dj' with pid 3785
+2019-04-03 12:15:06,485 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:07,487 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:08,490 INFO spawned: 'dj' with pid 3786
+2019-04-03 12:15:08,497 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:09,499 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:10,501 INFO spawned: 'dj' with pid 3787
+2019-04-03 12:15:10,508 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:11,510 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:12,512 INFO spawned: 'dj' with pid 3788
+2019-04-03 12:15:12,519 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:13,520 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:14,523 INFO spawned: 'dj' with pid 3789
+2019-04-03 12:15:14,530 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:15,532 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:16,535 INFO spawned: 'dj' with pid 3790
+2019-04-03 12:15:16,541 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:17,543 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:18,546 INFO spawned: 'dj' with pid 3791
+2019-04-03 12:15:18,555 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:19,557 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:20,560 INFO spawned: 'dj' with pid 3792
+2019-04-03 12:15:20,568 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:21,569 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:22,572 INFO spawned: 'dj' with pid 3793
+2019-04-03 12:15:22,579 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:23,581 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:24,583 INFO spawned: 'dj' with pid 3794
+2019-04-03 12:15:24,591 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:25,593 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:26,595 INFO spawned: 'dj' with pid 3795
+2019-04-03 12:15:26,602 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:27,604 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:28,607 INFO spawned: 'dj' with pid 3796
+2019-04-03 12:15:28,614 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:29,615 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:30,618 INFO spawned: 'dj' with pid 3797
+2019-04-03 12:15:30,625 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:31,627 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:32,629 INFO spawned: 'dj' with pid 3798
+2019-04-03 12:15:32,636 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:33,638 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:34,741 INFO spawned: 'dj' with pid 3799
+2019-04-03 12:15:34,748 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:35,750 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:36,753 INFO spawned: 'dj' with pid 3800
+2019-04-03 12:15:36,761 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:37,762 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:38,765 INFO spawned: 'dj' with pid 3801
+2019-04-03 12:15:38,772 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:39,774 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:40,776 INFO spawned: 'dj' with pid 3802
+2019-04-03 12:15:40,783 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:41,785 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:42,788 INFO spawned: 'dj' with pid 3803
+2019-04-03 12:15:42,794 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:43,796 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:44,799 INFO spawned: 'dj' with pid 3804
+2019-04-03 12:15:44,806 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:45,807 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:46,810 INFO spawned: 'dj' with pid 3805
+2019-04-03 12:15:46,817 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:47,818 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:48,820 INFO spawned: 'dj' with pid 3806
+2019-04-03 12:15:48,827 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:49,829 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:50,832 INFO spawned: 'dj' with pid 3807
+2019-04-03 12:15:50,839 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:51,841 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:52,844 INFO spawned: 'dj' with pid 3808
+2019-04-03 12:15:52,850 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:53,852 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:54,856 INFO spawned: 'dj' with pid 3819
+2019-04-03 12:15:54,863 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:55,865 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:56,867 INFO spawned: 'dj' with pid 3820
+2019-04-03 12:15:56,875 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:57,877 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:15:58,879 INFO spawned: 'dj' with pid 3821
+2019-04-03 12:15:58,887 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:15:59,889 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:00,892 INFO spawned: 'dj' with pid 3822
+2019-04-03 12:16:00,899 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:01,901 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:02,903 INFO spawned: 'dj' with pid 3823
+2019-04-03 12:16:02,910 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:03,912 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:04,914 INFO spawned: 'dj' with pid 3824
+2019-04-03 12:16:04,921 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:05,923 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:06,925 INFO spawned: 'dj' with pid 3825
+2019-04-03 12:16:06,933 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:07,934 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:08,937 INFO spawned: 'dj' with pid 3826
+2019-04-03 12:16:08,944 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:09,946 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:10,948 INFO spawned: 'dj' with pid 3827
+2019-04-03 12:16:10,956 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:11,957 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:12,960 INFO spawned: 'dj' with pid 3828
+2019-04-03 12:16:12,966 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:13,968 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:14,971 INFO spawned: 'dj' with pid 3829
+2019-04-03 12:16:14,978 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:15,980 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:16,983 INFO spawned: 'dj' with pid 3830
+2019-04-03 12:16:16,991 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:17,993 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:18,995 INFO spawned: 'dj' with pid 3831
+2019-04-03 12:16:19,003 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:20,005 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:21,007 INFO spawned: 'dj' with pid 3832
+2019-04-03 12:16:21,014 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:22,016 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:23,019 INFO spawned: 'dj' with pid 3833
+2019-04-03 12:16:23,025 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:24,026 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:25,029 INFO spawned: 'dj' with pid 3834
+2019-04-03 12:16:25,035 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:26,037 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:27,040 INFO spawned: 'dj' with pid 3835
+2019-04-03 12:16:27,046 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:28,048 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:29,051 INFO spawned: 'dj' with pid 3836
+2019-04-03 12:16:29,058 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:30,060 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:31,063 INFO spawned: 'dj' with pid 3837
+2019-04-03 12:16:31,070 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:32,071 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:33,073 INFO spawned: 'dj' with pid 3838
+2019-04-03 12:16:33,084 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:34,086 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:35,089 INFO spawned: 'dj' with pid 3839
+2019-04-03 12:16:35,096 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:36,098 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:37,101 INFO spawned: 'dj' with pid 3840
+2019-04-03 12:16:37,107 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:38,109 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:39,112 INFO spawned: 'dj' with pid 3841
+2019-04-03 12:16:39,119 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:40,121 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:41,124 INFO spawned: 'dj' with pid 3842
+2019-04-03 12:16:41,131 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:42,132 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:43,134 INFO spawned: 'dj' with pid 3843
+2019-04-03 12:16:43,141 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:44,143 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:45,145 INFO spawned: 'dj' with pid 3844
+2019-04-03 12:16:45,155 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:46,157 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:47,160 INFO spawned: 'dj' with pid 3845
+2019-04-03 12:16:47,167 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:48,168 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:49,171 INFO spawned: 'dj' with pid 3846
+2019-04-03 12:16:49,178 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:50,180 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:51,182 INFO spawned: 'dj' with pid 3847
+2019-04-03 12:16:51,189 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:52,190 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:53,193 INFO spawned: 'dj' with pid 3848
+2019-04-03 12:16:53,200 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:54,202 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:55,205 INFO spawned: 'dj' with pid 3849
+2019-04-03 12:16:55,212 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:56,214 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:57,216 INFO spawned: 'dj' with pid 3850
+2019-04-03 12:16:57,223 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:16:58,225 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:16:59,228 INFO spawned: 'dj' with pid 3851
+2019-04-03 12:16:59,234 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:00,236 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:01,238 INFO spawned: 'dj' with pid 3852
+2019-04-03 12:17:01,245 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:02,247 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:03,250 INFO spawned: 'dj' with pid 3856
+2019-04-03 12:17:03,260 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:04,262 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:05,264 INFO spawned: 'dj' with pid 3857
+2019-04-03 12:17:05,271 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:06,273 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:07,276 INFO spawned: 'dj' with pid 3858
+2019-04-03 12:17:07,282 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:08,284 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:09,287 INFO spawned: 'dj' with pid 3859
+2019-04-03 12:17:09,294 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:10,295 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:11,298 INFO spawned: 'dj' with pid 3860
+2019-04-03 12:17:11,306 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:12,308 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:13,311 INFO spawned: 'dj' with pid 3861
+2019-04-03 12:17:13,318 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:14,319 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:15,322 INFO spawned: 'dj' with pid 3862
+2019-04-03 12:17:15,329 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:16,331 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:17,334 INFO spawned: 'dj' with pid 3863
+2019-04-03 12:17:17,341 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:18,347 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:19,349 INFO spawned: 'dj' with pid 3864
+2019-04-03 12:17:19,357 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:20,358 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:21,361 INFO spawned: 'dj' with pid 3865
+2019-04-03 12:17:21,369 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:22,371 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:23,373 INFO spawned: 'dj' with pid 3866
+2019-04-03 12:17:23,380 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:24,381 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:25,382 INFO spawned: 'dj' with pid 3867
+2019-04-03 12:17:25,389 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:26,391 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:27,394 INFO spawned: 'dj' with pid 3868
+2019-04-03 12:17:27,401 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:28,403 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:29,405 INFO spawned: 'dj' with pid 3869
+2019-04-03 12:17:29,412 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:30,413 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:31,416 INFO spawned: 'dj' with pid 3870
+2019-04-03 12:17:31,423 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:32,425 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:33,427 INFO spawned: 'dj' with pid 3871
+2019-04-03 12:17:33,435 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:34,437 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:35,440 INFO spawned: 'dj' with pid 3872
+2019-04-03 12:17:35,447 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:36,449 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:37,451 INFO spawned: 'dj' with pid 3873
+2019-04-03 12:17:37,458 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:38,460 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:39,463 INFO spawned: 'dj' with pid 3874
+2019-04-03 12:17:39,469 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:40,471 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:41,474 INFO spawned: 'dj' with pid 3875
+2019-04-03 12:17:41,480 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:42,482 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:43,485 INFO spawned: 'dj' with pid 3876
+2019-04-03 12:17:43,492 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:44,494 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:45,496 INFO spawned: 'dj' with pid 3877
+2019-04-03 12:17:45,504 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:46,506 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:47,508 INFO spawned: 'dj' with pid 3878
+2019-04-03 12:17:47,515 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:48,516 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:49,519 INFO spawned: 'dj' with pid 3879
+2019-04-03 12:17:49,526 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:50,528 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:51,530 INFO spawned: 'dj' with pid 3880
+2019-04-03 12:17:51,538 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:52,540 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:53,543 INFO spawned: 'dj' with pid 3883
+2019-04-03 12:17:53,550 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:54,552 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:55,555 INFO spawned: 'dj' with pid 3884
+2019-04-03 12:17:55,562 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:56,564 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:57,566 INFO spawned: 'dj' with pid 3885
+2019-04-03 12:17:57,573 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:17:58,574 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:17:59,577 INFO spawned: 'dj' with pid 3886
+2019-04-03 12:17:59,584 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:00,586 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:01,589 INFO spawned: 'dj' with pid 3887
+2019-04-03 12:18:01,596 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:02,597 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:03,600 INFO spawned: 'dj' with pid 3888
+2019-04-03 12:18:03,607 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:04,608 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:05,611 INFO spawned: 'dj' with pid 3889
+2019-04-03 12:18:05,618 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:06,620 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:07,623 INFO spawned: 'dj' with pid 3890
+2019-04-03 12:18:07,629 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:08,630 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:09,634 INFO spawned: 'dj' with pid 3891
+2019-04-03 12:18:09,641 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:10,642 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:11,645 INFO spawned: 'dj' with pid 3892
+2019-04-03 12:18:11,652 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:12,652 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:13,655 INFO spawned: 'dj' with pid 3893
+2019-04-03 12:18:13,662 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:14,664 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:15,666 INFO spawned: 'dj' with pid 3894
+2019-04-03 12:18:15,673 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:16,675 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:17,677 INFO spawned: 'dj' with pid 3895
+2019-04-03 12:18:17,685 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:18,687 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:19,690 INFO spawned: 'dj' with pid 3896
+2019-04-03 12:18:19,697 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:20,699 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:21,700 INFO spawned: 'dj' with pid 3898
+2019-04-03 12:18:21,707 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:22,709 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:23,712 INFO spawned: 'dj' with pid 3899
+2019-04-03 12:18:23,718 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:24,720 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:25,723 INFO spawned: 'dj' with pid 3900
+2019-04-03 12:18:25,730 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:26,732 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:27,734 INFO spawned: 'dj' with pid 3901
+2019-04-03 12:18:27,741 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:28,743 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:29,746 INFO spawned: 'dj' with pid 3902
+2019-04-03 12:18:29,753 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:30,755 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:31,757 INFO spawned: 'dj' with pid 3903
+2019-04-03 12:18:31,764 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:32,766 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:33,768 INFO spawned: 'dj' with pid 3904
+2019-04-03 12:18:33,776 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:34,778 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:35,781 INFO spawned: 'dj' with pid 3905
+2019-04-03 12:18:35,788 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:36,790 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:37,793 INFO spawned: 'dj' with pid 3906
+2019-04-03 12:18:37,800 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:38,801 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:39,804 INFO spawned: 'dj' with pid 3907
+2019-04-03 12:18:39,811 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:40,813 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:41,815 INFO spawned: 'dj' with pid 3908
+2019-04-03 12:18:41,823 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:42,824 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:43,827 INFO spawned: 'dj' with pid 3909
+2019-04-03 12:18:43,834 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:44,836 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:45,839 INFO spawned: 'dj' with pid 3912
+2019-04-03 12:18:45,849 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:46,851 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:47,853 INFO spawned: 'dj' with pid 3913
+2019-04-03 12:18:47,860 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:48,862 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:49,864 INFO spawned: 'dj' with pid 3914
+2019-04-03 12:18:49,871 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:50,872 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:51,875 INFO spawned: 'dj' with pid 3915
+2019-04-03 12:18:51,882 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:52,884 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:53,887 INFO spawned: 'dj' with pid 3917
+2019-04-03 12:18:53,893 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:54,895 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:55,898 INFO spawned: 'dj' with pid 3918
+2019-04-03 12:18:55,904 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:56,906 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:57,909 INFO spawned: 'dj' with pid 3919
+2019-04-03 12:18:57,916 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:18:58,917 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:18:59,919 INFO spawned: 'dj' with pid 3920
+2019-04-03 12:18:59,927 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:00,928 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:01,931 INFO spawned: 'dj' with pid 3921
+2019-04-03 12:19:01,938 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:02,940 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:03,942 INFO spawned: 'dj' with pid 3922
+2019-04-03 12:19:03,950 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:04,952 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:05,955 INFO spawned: 'dj' with pid 3925
+2019-04-03 12:19:05,961 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:06,963 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:07,965 INFO spawned: 'dj' with pid 3926
+2019-04-03 12:19:07,973 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:08,975 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:09,977 INFO spawned: 'dj' with pid 3927
+2019-04-03 12:19:09,984 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:10,986 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:11,989 INFO spawned: 'dj' with pid 3928
+2019-04-03 12:19:11,995 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:12,997 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:14,000 INFO spawned: 'dj' with pid 3929
+2019-04-03 12:19:14,007 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:15,009 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:16,011 INFO spawned: 'dj' with pid 3930
+2019-04-03 12:19:16,024 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:17,026 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:18,028 INFO spawned: 'dj' with pid 3933
+2019-04-03 12:19:18,043 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:19,048 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:20,050 INFO spawned: 'dj' with pid 3934
+2019-04-03 12:19:20,057 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:21,059 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:22,062 INFO spawned: 'dj' with pid 3935
+2019-04-03 12:19:22,068 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:23,070 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:24,073 INFO spawned: 'dj' with pid 3937
+2019-04-03 12:19:24,080 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:25,082 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:26,085 INFO spawned: 'dj' with pid 3938
+2019-04-03 12:19:26,092 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:27,094 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:28,097 INFO spawned: 'dj' with pid 3939
+2019-04-03 12:19:28,103 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:29,105 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:30,108 INFO spawned: 'dj' with pid 3940
+2019-04-03 12:19:30,117 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:31,119 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:32,122 INFO spawned: 'dj' with pid 3941
+2019-04-03 12:19:32,130 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:33,132 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:34,134 INFO spawned: 'dj' with pid 3942
+2019-04-03 12:19:34,141 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:35,143 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:36,146 INFO spawned: 'dj' with pid 3943
+2019-04-03 12:19:36,153 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:37,155 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:38,157 INFO spawned: 'dj' with pid 3944
+2019-04-03 12:19:38,164 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:39,165 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:40,168 INFO spawned: 'dj' with pid 3945
+2019-04-03 12:19:40,174 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:41,176 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:42,179 INFO spawned: 'dj' with pid 3946
+2019-04-03 12:19:42,185 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:43,187 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:44,189 INFO spawned: 'dj' with pid 3947
+2019-04-03 12:19:44,196 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:45,197 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:46,200 INFO spawned: 'dj' with pid 3948
+2019-04-03 12:19:46,207 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:47,209 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:48,212 INFO spawned: 'dj' with pid 3949
+2019-04-03 12:19:48,218 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:49,220 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:50,223 INFO spawned: 'dj' with pid 3950
+2019-04-03 12:19:50,229 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:51,231 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:52,234 INFO spawned: 'dj' with pid 3951
+2019-04-03 12:19:52,241 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:53,242 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:54,245 INFO spawned: 'dj' with pid 3952
+2019-04-03 12:19:54,253 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:55,254 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:56,257 INFO spawned: 'dj' with pid 3953
+2019-04-03 12:19:56,266 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:57,267 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:19:58,270 INFO spawned: 'dj' with pid 3955
+2019-04-03 12:19:58,278 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:19:59,280 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:00,282 INFO spawned: 'dj' with pid 3956
+2019-04-03 12:20:00,289 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:01,291 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:02,293 INFO spawned: 'dj' with pid 3957
+2019-04-03 12:20:02,300 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:03,301 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:04,304 INFO spawned: 'dj' with pid 3961
+2019-04-03 12:20:04,311 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:05,313 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:06,316 INFO spawned: 'dj' with pid 3962
+2019-04-03 12:20:06,323 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:07,325 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:08,327 INFO spawned: 'dj' with pid 3963
+2019-04-03 12:20:08,334 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:09,336 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:10,338 INFO spawned: 'dj' with pid 3964
+2019-04-03 12:20:10,345 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:11,347 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:12,350 INFO spawned: 'dj' with pid 3965
+2019-04-03 12:20:12,357 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:13,358 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:14,361 INFO spawned: 'dj' with pid 3966
+2019-04-03 12:20:14,369 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:15,371 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:16,374 INFO spawned: 'dj' with pid 3967
+2019-04-03 12:20:16,380 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:17,382 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:18,385 INFO spawned: 'dj' with pid 3968
+2019-04-03 12:20:18,391 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:19,393 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:20,396 INFO spawned: 'dj' with pid 3969
+2019-04-03 12:20:20,403 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:21,405 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:22,407 INFO spawned: 'dj' with pid 3970
+2019-04-03 12:20:22,414 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:23,416 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:24,418 INFO spawned: 'dj' with pid 3971
+2019-04-03 12:20:24,425 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:25,426 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:26,428 INFO spawned: 'dj' with pid 3972
+2019-04-03 12:20:26,435 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:27,437 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:28,440 INFO spawned: 'dj' with pid 3975
+2019-04-03 12:20:28,447 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:29,448 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:30,451 INFO spawned: 'dj' with pid 3976
+2019-04-03 12:20:30,459 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:31,461 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:32,463 INFO spawned: 'dj' with pid 3977
+2019-04-03 12:20:32,471 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:33,473 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:34,475 INFO spawned: 'dj' with pid 3978
+2019-04-03 12:20:34,483 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:35,485 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:36,487 INFO spawned: 'dj' with pid 3979
+2019-04-03 12:20:36,494 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:37,495 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:38,498 INFO spawned: 'dj' with pid 3980
+2019-04-03 12:20:38,506 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)
+2019-04-03 12:20:39,507 INFO exited: dj (exit status 1; not expected)
+2019-04-03 12:20:40,510 INFO spawned: 'dj' with pid 3981
+2019-04-03 12:20:40,517 INFO success: dj entered RUNNING state, process has stayed up for > than 0 seconds (startsecs)

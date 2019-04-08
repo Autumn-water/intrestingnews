@@ -1,0 +1,92 @@
+{% extends 'admin/base/admin_base.html' %}
+
+{% block hedaer %}
+  发布课程
+{% endblock %}
+
+{% block title %}
+  发布课程
+{% endblock %}
+
+{% block content %}
+  <div class="row">
+    <div class="col-md-12 col-xs-12 col-sm-12">
+      <div class="box box-primary">
+        <div class="box-body">
+          <div class="form-group">
+            <label for="course-title">课程标题</label>
+            <input type="text" id="course-title" name="course-title" placeholder="请输入课程标题" class="form-control">
+          </div>
+          <div class="form-group">
+            <label for="course-video">视频地址</label>
+            <input type="text" id="course-video" name="course-video" placeholder="请输入视频地址" class="form-control">
+          </div>
+          <div class="form-group">
+            <label for="course-cover">封面图</label>
+            <div class="input-group">
+              <input type="text" id="course-cover" name="course-cover" placeholder="请上传课程封面图"
+                     class="form-control">
+              <div class="input-group-btn">
+                <label class="btn btn-default btn-file">
+                  上传至服务器 <input type="file" id="upload-course-cover">
+                </label>
+                <a href="javascript:void(0);" class="btn btn-info" id="upload-btn">上传至七牛</a>
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="progress" style="display: none;">
+              <div class="progress-bar progress-bar-striped progress-bar-animated" style="width: 0;">0%</div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="course-teacher">课程讲师</label>
+            <select name="course-teacher" id="course-teacher" class="form-control">
+              <option value="0">--请选择讲师--</option>
+              {% for teacher in teachers %}
+                <option value="{{ teacher.id }}">{{ teacher.name }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="course-duration">课程时长</label>
+            <input type="number" id="course-duration" name="course-duration" class="form-control"
+                   placeholder="请输入课程的时长">
+          </div>
+          <div class="form-group">
+            <label for="course-profile">课程简介</label>
+            <textarea name="course-profile" id="course-profile" placeholder="请输入课程简介"
+                      style="width: 100%; height: 100px;resize: none;"></textarea>
+          </div>
+          <div class="form-group">
+            <label for="course-outline">课程大纲</label>
+            <div id="course-outline"></div>
+          </div>
+          <div class="form-group">
+            <label for="course-category">课程分类</label>
+            <select name="course-category" id="course-category" class="form-control">
+              <option value="0">--请选择分类--</option>
+              {% for category in categories %}
+                <option value="{{ category.id }}">{{ category.name }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+        <div class="box-footer">
+          <a href="javascript:void (0);" class="btn btn-primary pull-right course-pub-btn">
+            发布课程
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+{% block script %}
+  <script src="//unpkg.com/wangeditor/release/wangEditor.min.js"></script>
+  <script src="https://cdn.bootcss.com/plupload/2.1.9/moxie.min.js"></script>
+  <script src="https://cdn.bootcss.com/plupload/2.1.9/plupload.dev.js"></script>
+  <script src="https://cdn.bootcss.com/qiniu-js/1.0.17.1/qiniu.min.js"></script>
+  <script src="/static/js/admin/base/fqiniu.js"></script>
+  <script src="/static/js/admin/course/course_pub.js"></script>
+{% endblock %}

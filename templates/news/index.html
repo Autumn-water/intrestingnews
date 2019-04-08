@@ -1,0 +1,110 @@
+{% extends 'base/front_base.html' %}
+{% load news_date_filter %}
+{% block title %}
+  首页
+{% endblock %}
+
+{% block link %}
+	<link rel="stylesheet" href="/static/css/news/index.css">
+{% endblock %}
+
+{% block main %}
+	<!-- main start -->
+	<main id="main">
+		<div class="w1200 clearfix">
+			<!-- main-contain start  -->
+			<div class="main-contain">
+				<!-- banner start -->
+				<div class="banner">
+					<ul class="pic">
+            <!--淡入淡出banner-->
+            {% for banner in banners %}
+              {% if forloop.counter0 == banner %}
+              	<li style="display:block;"><a href="javascript:void(0);"><img src="{{ banner.image_url }}"
+								 alt="test"></a></li>
+                {% else %}
+                <li><a href="javascript:void(0);"><img src="{{ banner.image_url }}"
+								 alt="test"></a></li>
+              {% endif %}
+            {% endfor %}
+					</ul>
+					<a href="javascript:void(0);" class="btn prev">
+						<i class="PyWhich py-arrow-left"></i></a>
+					<a href="javascript:void(0);" class="btn next">
+						<i class="PyWhich py-arrow-right"></i></a>
+					<ul class="tab">
+            <!-- 按钮数量必须和图片一致 -->
+            {% for banner in banners %}
+              {% if forloop.counter0 == banner %}
+              	<li class="active"></li>
+                {% else %}
+                <li></li>
+              {% endif %}
+            {% endfor %}
+					</ul>
+				</div>
+				<!-- banner end -->
+				<!-- content start -->
+				<div class="content">
+					<!-- recommend-news start -->
+					<ul class="recommend-news">
+            {% for h_news in h_newses|slice:'0:3' %}
+              <li>
+							<a href="javascript:void(0);" target="_blank">
+								<div class="recommend-thumbnail">
+									<img src="{{ h_news.news.thumbnail_url }}" alt="title">
+								</div>
+								<p class="info">{{ h_news.news.title }}</p>
+							</a>
+						</li>
+            {% endfor %}
+					</ul>
+					<!-- recommend-news end -->
+					<!--  news-nav start-->
+					<nav class="news-nav">
+						<ul class="clearfix">
+							<li class="active"><a href="javascript:void(0)">最新资讯</a></li>
+              {% for news_tag in news_tags %}
+                <li><a href="javascript:void(0)" data-id="{{ news_tag.id }}">{{ news_tag.name }}</a></li>
+              {% endfor %}
+						</ul>
+					</nav>
+					<!--  news-nav end -->
+					<!-- news-contain start -->
+					<div class="news-contain">
+						<ul class="news-list">
+              {% for news in newses %}
+              <li class="news-item">
+								<a href="{% url 'news:news_detail' news_id=news.id %}" class="news-thumbnail" target="_blank">
+									<img src="{{ news.thumbnail_url }}" alt="{{ news.title }}" title="{{ news.title }}">
+								</a>
+								<div class="news-content">
+									<h4 class="news-title"><a href="{% url 'news:news_detail' news_id=news.id %}">{{ news.title }}</a></h4>
+									<p class="news-details">{{ news.desc }}</p>
+									<div class="news-other">
+										<span class="news-type">{{ news.tag.name }}</span>
+										<span class="news-time">{{ news.pub_time|date_format }}</span>
+										<span class="news-author">{{ news.author.username }}</span>
+									</div>
+								</div>
+							</li>
+              {% endfor %}
+						</ul>
+					</div>
+					<!-- news-contain end -->
+					<!-- btn-more start -->
+					<a href="javascript:void(0);" class="btn-more" id="btn-more" data-page="2">加载更多</a>
+					<!-- btn-more end -->
+				</div>
+				<!-- content end -->
+			</div>
+			<!-- main-contain end -->
+		  {% include 'base/side_base.html' %}
+		</div>
+	</main>
+	<!-- main end -->
+{% endblock %}
+
+{% block script %}
+  <script src="/static/js/news/index.js"></script>
+{% endblock %}

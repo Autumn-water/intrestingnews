@@ -1,0 +1,72 @@
+<!-- side start -->
+<aside class="side">
+  <div class="side-activities">
+    <h3 class="activities-title">公告<a href="javascript:void(0)">更多</a></h3>
+    <div class="activities-img">
+      <a href="http://47.110.44.242/news/detail/3" target="_blank">
+        <img src="http://pic.51yuansu.com/pic3/cover/00/86/74/58dae1b92588b_610.jpg" alt="title">
+      </a>
+      <p class="activities-tips">快来加入我们把！</p>
+    </div>
+    <ul class="activities-list">
+      <li>
+        <a href="javascript:void(0);" target="_blank">
+          <span class="active-status active-start">活动中</span>
+          <span class="active-title"> 征集投稿人员</span>
+        </a>
+      </li>
+{#      <li>#}
+{#        <a href="javascript:void(0);" target="_blank">#}
+{#          <span class="active-status active-end">已结束</span>#}
+{#          <span class="active-title">法语基础班</span>#}
+{#        </a>#}
+{#      </li>#}
+    </ul>
+  </div>
+  <div class="side-attention clearfix">
+    <h3 class="attention-title">关注我</h3>
+    <ul class="side-attention-address">
+      <li>
+        <a href="javascript:void(0);" target="_blank"><i class="PyWhich py-GitHub"></i>张品鑫</a>
+      </li>
+      <li>
+        <a href="javascript:void(0);" target="_blank"><i class="PyWhich py-zhihu" style="color:rgb(0, 108, 226);"></i>handsomeFu</a>
+      </li>
+      <li>
+        <a href="https://weibo.com/u/2634117327?topnav=1&wvr=6&topsug=1;" target="_blank"><i class="PyWhich py-weibo" style="color:rgba(245, 100, 103)"></i>张品鑫</a>
+      </li>
+    </ul>
+    <div class="side-attention-qr">
+      <p>扫码关注</p>
+    </div>
+  </div>
+  {% if h_newses %}
+  <div class="side-hot-recommend">
+    <h3 class="hot-recommend">热门推荐</h3>
+    <ul class="hot-news-list">
+      {% for h_news in h_newses|slice:'3:' %}
+        <li>
+        <a href="javascript:void(0)" class="hot-news-contain clearfix">
+          <div class="hot-news-thumbnail">
+            <img src="{{ h_news.news.thumbnail_url }}"
+                 alt="">
+          </div>
+          <div class="hot-news-content">
+            <p class="hot-news-title">{{ h_news.news.title }}</p>
+            <div class="hot-news-other clearfix">
+              <span class="news-type">{{ h_news.news.tag.name }}</span>
+              <!-- 自带的 -->
+              <time class="news-pub-time">{{ h_news.news.pub_time|date:'m月d日' }}</time>
+              <span class="news-author">{{ h_news.news.author.username }}</span>
+            </div>
+          </div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+</aside>
+<!-- side end -->
+{# ctrl+alt+L #}

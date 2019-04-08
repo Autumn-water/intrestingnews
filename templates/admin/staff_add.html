@@ -1,0 +1,38 @@
+{% extends 'admin/base/admin_base.html' %}
+
+
+{% block hedaer %}
+添加员工
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8 col-sm-10 col-xs-12">
+      <div class="box box-primary">
+        <div class="box-body">
+            <div class="form-group">
+              <label for="telephone">手机号</label>
+              <input type="text" id="telephone" class="form-control" name="telephone" placeholder="请输入手机号">
+            </div>
+            <div class="form-group">
+              <label for="group">选择部门</label>
+              <div class="checkbox">
+                {% for group in groups %}
+                   <label class="checkbox-inline">
+                  <input type="checkbox" value="{{ group.id }}" name="groups">{{ group.name }}
+                </label>
+                {% endfor %}
+              </div>
+            </div>
+        </div>
+        <div class="box-footer">
+          <a href="javascript:void(0);" class="btn btn-block btn-primary" id="save-btn">保存</a>
+        </div>
+      </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block script %}
+  <script src="/static/js/admin/staff_add.js"></script>
+{% endblock %}

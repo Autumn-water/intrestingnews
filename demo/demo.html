@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+<a href="javascript:void(0);" id="btn">按钮</a>
+<script>
+  // =>  arrow function 箭头函数
+  // 函数体只有一行return 去掉 return 去掉 {}
+  // function  == =>  不会保存this
+  // def a(x, b):
+  //      return x+b
+  function a(x, b) {
+    return x+b
+  }
+  console.log(a(1, 2));
+  let b = (a,b)=>a+b;
+
+  console.log(b(1, 2));
+
+  // 解决 this  有时间最好是补一下 js
+  btn.onclick  =  function() {
+    alert(this); // window
+  }
+</script>
+</body>
+</html>

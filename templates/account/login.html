@@ -1,0 +1,48 @@
+{% extends 'base/front_base.html' %}
+
+{% block title %}
+  登录页
+{% endblock %}
+
+{% block link %}
+ <link rel="stylesheet" href="/static/css/account/auth.css">
+{% endblock %}
+
+
+{% block main %}
+<!-- container start -->
+<main id="container">
+    <form class="login-contain" method="post">
+        <div class="top-contain">
+            <h4 class="please-login">请登录</h4>
+            <a href="{% url 'account:register' %}" class="register">立即注册 &gt;</a>
+        </div>
+        <div class="form-contain">
+            <div class="form-item">
+                <input type="tel" placeholder="请输入手机号" name="telephone" class="form-control" autocomplete="off">
+            </div>
+            <div class="form-item">
+                <input type="password" placeholder="请输入密码" name="password" class="form-control">
+            </div>
+            <div class="form-item clearfix">
+                <label>
+                    <input type="checkbox" name="remember">
+                    <span>记住我</span>
+                </label>
+                <a href="javascript:void(0);" class="forget-password">忘记密码?</a>
+            </div>
+            <div class="form-login">
+                <!-- submit -->
+                <!--<a href="javascript:void(0);" class="login-btn">登录</a>-->
+                <input type="submit" class="login-btn" value="登录">
+            </div>
+        </div>
+    </form>
+</main>
+<!-- container end -->
+{% endblock %}
+
+{% block script %}
+// post  ====  csrf  403 forbidden
+  <script src="/static/js/account/auth.js"></script>
+{% endblock %}

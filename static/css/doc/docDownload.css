@@ -1,0 +1,95 @@
+/* ================= main start ================= */
+#main {
+    margin-top: 25px;
+    min-height: 700px;
+    flex: 1;
+}
+
+/* ========= main-contain start ============ */
+#main .main-contain {
+    width: 800px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+/* ========= banner start =========== */
+.main-contain .banner {
+    width: 100%;
+}
+
+.main-contain .banner img {
+    max-width: 100%;
+}
+/* ========= banner end =========== */
+
+.main-contain .doc-contain {
+    background: #fff;
+}
+
+.main-contain .doc-contain .doc-list {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+    padding: 0 20px 20px;
+}
+
+.main-contain .doc-contain .doc-item {
+    width: 370px;
+    height: 150px;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+    display: flex;
+}
+
+.main-contain .doc-contain .doc-item:hover {
+    box-shadow: 2px 2px 2px #ccc;
+}
+
+.doc-contain .doc-item .doc-img {
+    width: 100px;
+    height: 150px;
+    margin-right: 14px;
+    background: url("http://onj3s3zfw.bkt.clouddn.com//o_1ckpmva1lgpv1o1ur3p1ru21k3j7.png") center center no-repeat;
+}
+
+.doc-contain .doc-item .doc-img.doc {
+    background: url("http://onj3s3zfw.bkt.clouddn.com//o_1ckpmva1lgpv1o1ur3p1ru21k3j7.png") center center no-repeat;
+}
+
+.doc-contain .doc-item .d-contain {
+    width: 250px;
+    position: relative
+}
+
+.doc-item .d-contain .doc-title {
+    font-size: 20px;
+    line-height: 40px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.doc-item .d-contain .doc-desc {
+    line-height: 20px;
+    color: #878787;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    font-size: 14px;
+    overflow: hidden;
+}
+
+.doc-item .d-contain .doc-price {
+    position: absolute;
+    bottom: 5px;
+    right: 15px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #f73e3e;
+}
+
+.d-contain .doc-price span {
+    font-size: 18px;
+}
+/* ========= main-contain end ============ */
+/* ================= main end ================= */

@@ -1,0 +1,42 @@
+{% extends 'admin/base/admin_base.html' %}
+
+{% block  title %}
+  热门新闻管理页面
+{% endblock %}
+
+{% block hedaer %}
+  热门新闻管理页面
+{% endblock %}
+
+{% block content %}
+  <div class="row">
+    <div class="col-md-12 col-xs-12 col-sm-12">
+      <div class="box box-primary">
+        <div class="box-header">
+          <a href="{% url 'admin:news_hot_add' %}" class="btn btn-primary pull-right"
+             id="btn-add-news-recommend">添加推荐新闻</a>
+        </div>
+        <div class="box-body">
+          <table class="table table-bordered table-hover">
+            <thead>
+            <tr>
+              <th>新闻名称</th>
+              <th>新闻分类</th>
+              <th>优先级</th>
+              <th>操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
+        </div>
+        <div class="box-footer"></div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+
+{% block script %}
+  <script src="/static/js/admin/news/news_hot.js"></script>
+{% endblock %}
